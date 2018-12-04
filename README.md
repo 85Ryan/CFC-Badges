@@ -6,8 +6,8 @@
 
 ## 协会与赛事标志
 
-- [x] 中国足协协会（CFA） [➡️](/CFA & LEAGUES & CUPS/Chinese Football Association)
-- [x] 中国足球协会超级联赛（CSL） [➡️](/CFA & LEAGUES & CUPS/CFA Super League)
+- [x] [中国足协协会（CFA）](/CFA%20&%20LEAGUES%20&%20CUPS/Chinese%20Football%20Association)
+- [x] [中国足球协会超级联赛（CSL）](/CFA%20&%20LEAGUES%20&%20CUPS/CFA%20Super%20League)
 - [ ] 中国足球协会甲级联赛（League 1）
 - [ ] 中国足球协会乙级联赛（League 2）
 - [ ] 中国足球协会会员协会冠军联赛（CMCL）
@@ -16,9 +16,9 @@
 
 ## 中国足球协会超级联赛（CSL）
 
-- [x] 上海上港集团足球俱乐部 [➡️](/CFA SUPER LEAGUE/Shanghai SIPG)
-- [x] 广州恒大淘宝足球俱乐部 [➡️](/CFA SUPER LEAGUE/Guangzhou Evergrande Taobao)
-- [x] 山东鲁能泰山足球俱乐部 [➡️](/CFA SUPER LEAGUE/Shandong Luneng Taishan)
+- [x] [上海上港集团足球俱乐部](/CFA%20SUPER%20LEAGUE/Shanghai%20SIPG)
+- [x] [广州恒大淘宝足球俱乐部](/CFA%20SUPER%20LEAGUE/Guangzhou%20Evergrande%20Taobao)
+- [x] [山东鲁能泰山足球俱乐部](/CFA%20SUPER%20LEAGUE/Shandong%20Luneng%20Taishan)
 - [ ] 北京中赫国安足球俱乐部
 - [ ] 江苏苏宁足球俱乐部
 - [ ] 河北华夏幸福足球俱乐部
