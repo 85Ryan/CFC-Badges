@@ -19,7 +19,7 @@
 - [x] [上海上港集团足球俱乐部](/CFA%20SUPER%20LEAGUE/Shanghai%20SIPG)
 - [x] [广州恒大淘宝足球俱乐部](/CFA%20SUPER%20LEAGUE/Guangzhou%20Evergrande%20Taobao)
 - [x] [山东鲁能泰山足球俱乐部](/CFA%20SUPER%20LEAGUE/Shandong%20Luneng%20Taishan)
-- [ ] 北京中赫国安足球俱乐部
+- [x] [北京中赫国安足球俱乐部](/CFA%20SUPER%20LEAGUE/Beijing%20Sinobo%20Guoan)
 - [ ] 江苏苏宁足球俱乐部
 - [ ] 河北华夏幸福足球俱乐部
 - [ ] 上海绿地申花足球俱乐部
