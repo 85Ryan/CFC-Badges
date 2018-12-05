@@ -21,7 +21,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Shandong Luneng Taishan](/CFA%20SUPER%20LEAGUE/Shandong%20Luneng%20Taishan)
 - [x] [Beijing Sinobo Guoan](/CFA%20SUPER%20LEAGUE/Beijing%20Sinobo%20Guoan)
 - [x] [Jiangsu Suning](/CFA%20SUPER%20LEAGUE/Jiangsu%20Suning)
-- [ ] Hebei China Fortune
+- [x] [Hebei China Fortune](/CFA%20SUPER%20LEAGUE/Hebei%20China%20Fortune)
 - [ ] Shanghai Greenland Shenhua
 - [ ] Beijing Renhe
 - [ ] Tianjin Quanjian

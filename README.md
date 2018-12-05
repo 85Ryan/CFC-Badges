@@ -21,7 +21,7 @@
 - [x] [山东鲁能泰山足球俱乐部](/CFA%20SUPER%20LEAGUE/Shandong%20Luneng%20Taishan)
 - [x] [北京中赫国安足球俱乐部](/CFA%20SUPER%20LEAGUE/Beijing%20Sinobo%20Guoan)
 - [x] [江苏苏宁足球俱乐部](/CFA%20SUPER%20LEAGUE/Jiangsu%20Suning)
-- [ ] 河北华夏幸福足球俱乐部
+- [x] [河北华夏幸福足球俱乐部](/CFA%20SUPER%20LEAGUE/Hebei%20China%20Fortune)
 - [ ] 上海绿地申花足球俱乐部
 - [ ] 北京人和足球俱乐部
 - [ ] 天津权健足球俱乐部
