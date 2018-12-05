@@ -20,7 +20,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Guangzhou Evergrande Taobao](/CFA%20SUPER%20LEAGUE/Guangzhou%20Evergrande%20Taobao)
 - [x] [Shandong Luneng Taishan](/CFA%20SUPER%20LEAGUE/Shandong%20Luneng%20Taishan)
 - [x] [Beijing Sinobo Guoan](/CFA%20SUPER%20LEAGUE/Beijing%20Sinobo%20Guoan)
-- [ ] Jiangsu Suning
+- [x] [Jiangsu Suning](/CFA%20SUPER%20LEAGUE/Jiangsu%20Suning)
 - [ ] Hebei China Fortune
 - [ ] Shanghai Greenland Shenhua
 - [ ] Beijing Renhe
