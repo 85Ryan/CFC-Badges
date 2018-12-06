@@ -22,7 +22,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Beijing Sinobo Guoan](/CFA%20SUPER%20LEAGUE/Beijing%20Sinobo%20Guoan)
 - [x] [Jiangsu Suning](/CFA%20SUPER%20LEAGUE/Jiangsu%20Suning)
 - [x] [Hebei China Fortune](/CFA%20SUPER%20LEAGUE/Hebei%20China%20Fortune)
-- [ ] Shanghai Greenland Shenhua
+- [x] [Shanghai Greenland Shenhua](/CFA%20SUPER%20LEAGUE/Shanghai%20Greenland%20Shenhua)
 - [ ] Beijing Renhe
 - [ ] Tianjin Quanjian
 - [ ] Guangzhou R&F
