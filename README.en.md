@@ -24,7 +24,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Hebei China Fortune](/CFA%20SUPER%20LEAGUE/Hebei%20China%20Fortune)
 - [x] [Shanghai Greenland Shenhua](/CFA%20SUPER%20LEAGUE/Shanghai%20Greenland%20Shenhua)
 - [x] [Beijing Renhe](/CFA%20SUPER%20LEAGUE/Beijing%20Renhe)
-- [ ] Tianjin Quanjian
+- [x] [Tianjin Quanjian](/CFA%20SUPER%20LEAGUE/Tianjin%20Quanjian)
 - [ ] Guangzhou R&F
 - [ ] Dalian Yifang
 - [ ] Henan Jianye
