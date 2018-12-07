@@ -23,7 +23,7 @@
 - [x] [江苏苏宁足球俱乐部](/CFA%20SUPER%20LEAGUE/Jiangsu%20Suning)
 - [x] [河北华夏幸福足球俱乐部](/CFA%20SUPER%20LEAGUE/Hebei%20China%20Fortune)
 - [x] [上海绿地申花足球俱乐部](/CFA%20SUPER%20LEAGUE/Shanghai%20Greenland%20Shenhua)
-- [ ] 北京人和足球俱乐部
+- [x] [北京人和足球俱乐部](/CFA%20SUPER%20LEAGUE/Beijing%20Renhe)
 - [ ] 天津权健足球俱乐部
 - [ ] 广州富力足球俱乐部
 - [ ] 大连一方足球俱乐部
