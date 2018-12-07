@@ -25,7 +25,7 @@
 - [x] [上海绿地申花足球俱乐部](/CFA%20SUPER%20LEAGUE/Shanghai%20Greenland%20Shenhua)
 - [x] [北京人和足球俱乐部](/CFA%20SUPER%20LEAGUE/Beijing%20Renhe)
 - [x] [天津权健足球俱乐部](/CFA%20SUPER%20LEAGUE/Tianjin%20Quanjian)
-- [ ] 广州富力足球俱乐部
+- [x] [广州富力足球俱乐部](/CFA%20SUPER%20LEAGUE/Guangzhou%20R&F)
 - [ ] 大连一方足球俱乐部
 - [ ] 河南建业足球俱乐部
 - [ ] 重庆当代力帆足球俱乐部

@@ -25,7 +25,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Shanghai Greenland Shenhua](/CFA%20SUPER%20LEAGUE/Shanghai%20Greenland%20Shenhua)
 - [x] [Beijing Renhe](/CFA%20SUPER%20LEAGUE/Beijing%20Renhe)
 - [x] [Tianjin Quanjian](/CFA%20SUPER%20LEAGUE/Tianjin%20Quanjian)
-- [ ] Guangzhou R&F
+- [x] [Guangzhou R&F](/CFA%20SUPER%20LEAGUE/Guangzhou%20R&F)
 - [ ] Dalian Yifang
 - [ ] Henan Jianye
 - [ ] Chongqing Dangdai Lifan
