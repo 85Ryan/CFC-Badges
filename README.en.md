@@ -28,7 +28,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Guangzhou R&F](/CFA%20SUPER%20LEAGUE/Guangzhou%20R&F)
 - [x] [Dalian Yifang](/CFA%20SUPER%20LEAGUE/Dalian%20Yifang)
 - [x] [Henan Jianye](/CFA%20SUPER%20LEAGUE/Henan%20Jianye)
-- [ ] Chongqing Dangdai Lifan
+- [x] [Chongqing Dangdai Lifan](/CFA%20SUPER%20LEAGUE/Chongqing%20Dangdai%20Lifan)
 - [ ] Tianjin Teda
 - [ ] Wuhan Zall
 - [ ] Shenzhen FC
