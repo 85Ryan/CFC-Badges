@@ -29,7 +29,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Dalian Yifang](/CFA%20SUPER%20LEAGUE/Dalian%20Yifang)
 - [x] [Henan Jianye](/CFA%20SUPER%20LEAGUE/Henan%20Jianye)
 - [x] [Chongqing Dangdai Lifan](/CFA%20SUPER%20LEAGUE/Chongqing%20Dangdai%20Lifan)
-- [ ] Tianjin Teda
+- [x] [Tianjin Teda](/CFA%20SUPER%20LEAGUE/Tianjin%20Teda)
 - [ ] Wuhan Zall
 - [ ] Shenzhen FC
 

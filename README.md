@@ -29,7 +29,7 @@
 - [x] [大连一方足球俱乐部](/CFA%20SUPER%20LEAGUE/Dalian%20Yifang)
 - [x] [河南建业足球俱乐部](/CFA%20SUPER%20LEAGUE/Henan%20Jianye)
 - [x] [重庆当代力帆足球俱乐部](/CFA%20SUPER%20LEAGUE/Chongqing%20Dangdai%20Lifan)
-- [ ] 天津泰达足球俱乐部
+- [x] [天津泰达足球俱乐部](/CFA%20SUPER%20LEAGUE/Tianjin%20Teda)
 - [ ] 武汉卓尔职业足球俱乐部
 - [ ] 深圳市足球俱乐部
 
