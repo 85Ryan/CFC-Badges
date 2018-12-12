@@ -30,7 +30,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Henan Jianye](/CFA%20SUPER%20LEAGUE/Henan%20Jianye)
 - [x] [Chongqing Dangdai Lifan](/CFA%20SUPER%20LEAGUE/Chongqing%20Dangdai%20Lifan)
 - [x] [Tianjin Teda](/CFA%20SUPER%20LEAGUE/Tianjin%20Teda)
-- [ ] Wuhan Zall
+- [x] [Wuhan Zall](/CFA%20SUPER%20LEAGUE/Wuhan%20Zall)
 - [ ] Shenzhen FC
 
 ## CFA League 1（League 1）
