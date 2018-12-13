@@ -8,7 +8,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 
 - [x] [Chinese Football Association（CFA）](/CFA%20&%20LEAGUES%20&%20CUPS/Chinese%20Football%20Association)
 - [x] [CFA Super League（CSL）](/CFA%20&%20LEAGUES%20&%20CUPS/CFA%20Super%20League)
-- [ ] CFA League 1（League 1）
+- [x] [CFA League 1（League 1）](/CFA%20&%20LEAGUES%20&%20CUPS/CFA%20League%201)
 - [ ] CFA League 2（League 2）
 - [ ] CFA Member Association Champions League（CMCL）
 - [ ] CFA CUP
@@ -35,7 +35,27 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 
 ## CFA League 1（League 1）
 
+- [ ] Changchun Yatai
+- [ ] Guizhou Hengfeng
+- [ ] Zhejiang Greentown
+- [ ] Qingdao Huanghai
+- [ ] Beijing Enterprises
+- [ ] Shijiazhuang Ever Bright
+- [ ] Heilongjiang Lava Spring
+- [ ] Liaoning FC
+- [ ] Meizhou Hakka
+- [ ] Yanbian Funde
+- [ ] Shanghai Shenxin
+- [ ] Zhejiang Yiteng
+- [ ] Nei Mongol Zhongyou
+- [ ] Meizhou Meixian Techand 
+- [ ] Sichuan Longfor
+- [ ] Nantong Zhiyun
+
 ## CFA League 2（League 2）
+- [ ] Dalian Transcendence
+- [ ] Xinjiang Tianshan Leopard
+- [ ] Kunshan FC
 
 ## CFA Member Association Champions League（CMCL）
 
