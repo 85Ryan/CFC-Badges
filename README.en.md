@@ -35,7 +35,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 
 ## CFA League 1（League 1）
 
-- [ ] Changchun Yatai
+- [x] [Changchun Yatai](/CFA%20LEAGUE%201/Changchun%20Yatai)
 - [ ] Guizhou Hengfeng
 - [ ] Zhejiang Greentown
 - [ ] Qingdao Huanghai
