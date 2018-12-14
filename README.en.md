@@ -37,15 +37,15 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 
 - [x] [Changchun Yatai](/CFA%20LEAGUE%201/Changchun%20Yatai)
 - [ ] Guizhou Hengfeng
-- [ ] Zhejiang Greentown
+- [x] [Zhejiang Greentown](/CFA%20LEAGUE%201/Zhejiang%2Greentown)
 - [ ] Qingdao Huanghai
 - [ ] Beijing Enterprises
-- [ ] Shijiazhuang Ever Bright
+- [x] [Shijiazhuang Ever Bright](/CFA%20LEAGUE%201/Shijiazhuang%20Ever%20Bright)
 - [ ] Heilongjiang Lava Spring
-- [ ] Liaoning FC
+- [x] [Liaoning FC](/CFA%20LEAGUE%201/Liaoning%20FC)
 - [ ] Meizhou Hakka
 - [ ] Yanbian Funde
-- [ ] Shanghai Shenxin
+- [x] [Shanghai Shenxin](/CFA%20LEAGUE%201/Shanghai%20Shenxin)
 - [ ] Zhejiang Yiteng
 - [ ] Nei Mongol Zhongyou
 - [ ] Meizhou Meixian Techand 
