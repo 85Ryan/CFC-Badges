@@ -37,7 +37,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 
 - [x] [Changchun Yatai](/CFA%20LEAGUE%201/Changchun%20Yatai)
 - [ ] Guizhou Hengfeng
-- [x] [Zhejiang Greentown](/CFA%20LEAGUE%201/Zhejiang%2Greentown)
+- [x] [Zhejiang Greentown](/CFA%20LEAGUE%201/Zhejiang%20Greentown)
 - [ ] Qingdao Huanghai
 - [ ] Beijing Enterprises
 - [x] [Shijiazhuang Ever Bright](/CFA%20LEAGUE%201/Shijiazhuang%20Ever%20Bright)
