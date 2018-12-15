@@ -9,7 +9,7 @@
 - [x] [中国足协协会（CFA）](/CFA%20&%20LEAGUES%20&%20CUPS/Chinese%20Football%20Association)
 - [x] [中国足球协会超级联赛（CSL）](/CFA%20&%20LEAGUES%20&%20CUPS/CFA%20Super%20League)
 - [x] [中国足球协会甲级联赛（League 1）](/CFA%20&%20LEAGUES%20&%20CUPS/CFA%20League%201)
-- [ ] 中国足球协会乙级联赛（League 2）
+- [x] [中国足球协会乙级联赛（League 2）](/CFA%20&%20LEAGUES%20&%20CUPS/CFA%20League%202)
 - [ ] 中国足球协会会员协会冠军联赛（CMCL）
 - [ ] 中国足球协会杯（CFA CUP）
 - [ ] 中国足球协会超级杯（CFA SUPER CUP）
@@ -56,7 +56,7 @@
 
 - [ ] 大连超越足球俱乐部
 - [ ] 新疆天山雪豹足球俱乐部
-- [ ] 昆山足球俱乐部
+- [x] [昆山足球俱乐部](/CFA%20LEAGUE%202/Kunshan%20FC)
 
 ## 中国足球协会会员协会冠军联赛（CMCL）
 

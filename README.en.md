@@ -9,7 +9,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Chinese Football Association（CFA）](/CFA%20&%20LEAGUES%20&%20CUPS/Chinese%20Football%20Association)
 - [x] [CFA Super League（CSL）](/CFA%20&%20LEAGUES%20&%20CUPS/CFA%20Super%20League)
 - [x] [CFA League 1（League 1）](/CFA%20&%20LEAGUES%20&%20CUPS/CFA%20League%201)
-- [ ] CFA League 2（League 2）
+- [x] [CFA League 2（League 2）](/CFA%20&%20LEAGUES%20&%20CUPS/CFA%20League%202)
 - [ ] CFA Member Association Champions League（CMCL）
 - [ ] CFA CUP
 - [ ] CFA SUPER CUP
@@ -55,7 +55,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 ## CFA League 2（League 2）
 - [ ] Dalian Transcendence
 - [ ] Xinjiang Tianshan Leopard
-- [ ] Kunshan FC
+- [x] [Kunshan FC](/CFA%20LEAGUE%202/Kunshan%20FC)
 
 ## CFA Member Association Champions League（CMCL）
 
