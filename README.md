@@ -36,7 +36,7 @@
 ## 中国足球协会甲级联赛（League 1）
 
 - [x] [长春亚泰足球俱乐部](/CFA%20LEAGUE%201/Changchun%20Yatai)
-- [ ] 贵州恒丰足球俱乐部
+- [x] [贵州恒丰足球俱乐部](/CFA%20LEAGUE%201/Guizhou%20Hengfeng)
 - [x] [浙江绿城足球俱乐部](/CFA%20LEAGUE%201/Zhejiang%20Greentown)
 - [ ] 青岛黄海足球俱乐部
 - [ ] 北京控股足球俱乐部

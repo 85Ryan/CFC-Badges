@@ -36,7 +36,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 ## CFA League 1（League 1）
 
 - [x] [Changchun Yatai](/CFA%20LEAGUE%201/Changchun%20Yatai)
-- [ ] Guizhou Hengfeng
+- [x] [Guizhou Hengfeng](/CFA%20LEAGUE%201/Guizhou%20Hengfeng)
 - [x] [Zhejiang Greentown](/CFA%20LEAGUE%201/Zhejiang%20Greentown)
 - [ ] Qingdao Huanghai
 - [ ] Beijing Enterprises
