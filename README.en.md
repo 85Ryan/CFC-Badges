@@ -38,7 +38,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Changchun Yatai](/CFA%20LEAGUE%201/Changchun%20Yatai)
 - [x] [Guizhou Hengfeng](/CFA%20LEAGUE%201/Guizhou%20Hengfeng)
 - [x] [Zhejiang Greentown](/CFA%20LEAGUE%201/Zhejiang%20Greentown)
-- [ ] Qingdao Huanghai
+- [x] [Qingdao Huanghai](/CFA%20LEAGUE%201/Qingdao%20Huanghai)
 - [ ] Beijing Enterprises
 - [x] [Shijiazhuang Ever Bright](/CFA%20LEAGUE%201/Shijiazhuang%20Ever%20Bright)
 - [ ] Heilongjiang Lava Spring

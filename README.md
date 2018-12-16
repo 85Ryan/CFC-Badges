@@ -38,7 +38,7 @@
 - [x] [长春亚泰足球俱乐部](/CFA%20LEAGUE%201/Changchun%20Yatai)
 - [x] [贵州恒丰足球俱乐部](/CFA%20LEAGUE%201/Guizhou%20Hengfeng)
 - [x] [浙江绿城足球俱乐部](/CFA%20LEAGUE%201/Zhejiang%20Greentown)
-- [ ] 青岛黄海足球俱乐部
+- [x] [青岛黄海足球俱乐部](/CFA%20LEAGUE%201/Qingdao%20Huanghai)
 - [ ] 北京控股足球俱乐部
 - [x] [石家庄永昌足球俱乐部](/CFA%20LEAGUE%201/Shijiazhuang%20Ever%20Bright)
 - [ ] 黑龙江火山鸣泉足球俱乐部
