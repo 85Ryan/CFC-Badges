@@ -39,7 +39,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Guizhou Hengfeng](/CFA%20LEAGUE%201/Guizhou%20Hengfeng)
 - [x] [Zhejiang Greentown](/CFA%20LEAGUE%201/Zhejiang%20Greentown)
 - [x] [Qingdao Huanghai](/CFA%20LEAGUE%201/Qingdao%20Huanghai)
-- [ ] Beijing Enterprises
+- [x] [Beijing Enterprises](/CFA%20LEAGUE%201/Beijing%20Enterprises)
 - [x] [Shijiazhuang Ever Bright](/CFA%20LEAGUE%201/Shijiazhuang%20Ever%20Bright)
 - [ ] Heilongjiang Lava Spring
 - [x] [Liaoning FC](/CFA%20LEAGUE%201/Liaoning%20FC)
