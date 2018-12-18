@@ -43,7 +43,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Shijiazhuang Ever Bright](/CFA%20LEAGUE%201/Shijiazhuang%20Ever%20Bright)
 - [x] [Heilongjiang Lava Spring](/CFA%20LEAGUE%201/Heilongjiang%20Lava%20Spring)
 - [x] [Liaoning FC](/CFA%20LEAGUE%201/Liaoning%20FC)
-- [ ] Meizhou Hakka
+- [x] [Meizhou Hakka](/CFA%20LEAGUE%201/Meizhou%20Hakka)
 - [ ] Yanbian Funde
 - [x] [Shanghai Shenxin](/CFA%20LEAGUE%201/Shanghai%20Shenxin)
 - [ ] Zhejiang Yiteng
