@@ -41,7 +41,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Qingdao Huanghai](/CFA%20LEAGUE%201/Qingdao%20Huanghai)
 - [x] [Beijing Enterprises](/CFA%20LEAGUE%201/Beijing%20Enterprises)
 - [x] [Shijiazhuang Ever Bright](/CFA%20LEAGUE%201/Shijiazhuang%20Ever%20Bright)
-- [ ] Heilongjiang Lava Spring
+- [x] [Heilongjiang Lava Spring](/CFA%20LEAGUE%201/Heilongjiang%20Lava%20Spring)
 - [x] [Liaoning FC](/CFA%20LEAGUE%201/Liaoning%20FC)
 - [ ] Meizhou Hakka
 - [ ] Yanbian Funde
