@@ -44,7 +44,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Heilongjiang Lava Spring](/CFA%20LEAGUE%201/Heilongjiang%20Lava%20Spring)
 - [x] [Liaoning FC](/CFA%20LEAGUE%201/Liaoning%20FC)
 - [x] [Meizhou Hakka](/CFA%20LEAGUE%201/Meizhou%20Hakka)
-- [ ] Yanbian Funde
+- [x] [Yanbian Funde](/CFA%20LEAGUE%201/Yanbian%20Funde)
 - [x] [Shanghai Shenxin](/CFA%20LEAGUE%201/Shanghai%20Shenxin)
 - [ ] Zhejiang Yiteng
 - [ ] Nei Mongol Zhongyou

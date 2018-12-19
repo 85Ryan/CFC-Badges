@@ -44,7 +44,7 @@
 - [x] [黑龙江火山鸣泉足球俱乐部](/CFA%20LEAGUE%201/Heilongjiang%20Lava%20Spring)
 - [x] [辽宁足球俱乐部](/CFA%20LEAGUE%201/Liaoning%20FC)
 - [x] [梅州客家足球俱乐部](/CFA%20LEAGUE%201/Meizhou%20Hakka)
-- [ ] 延边富德足球俱乐部
+- [x] [延边富德足球俱乐部](/CFA%20LEAGUE%201/Yanbian%20Funde)
 - [x] [上海申鑫足球俱乐部](/CFA%20LEAGUE%201/Shanghai%20Shenxin)
 - [ ] 浙江毅腾足球俱乐部
 - [ ] 内蒙古中优足球俱乐部
