@@ -46,7 +46,7 @@
 - [x] [梅州客家足球俱乐部](/CFA%20LEAGUE%201/Meizhou%20Hakka)
 - [x] [延边富德足球俱乐部](/CFA%20LEAGUE%201/Yanbian%20Funde)
 - [x] [上海申鑫足球俱乐部](/CFA%20LEAGUE%201/Shanghai%20Shenxin)
-- [ ] 浙江毅腾足球俱乐部
+- [x] [浙江毅腾足球俱乐部](/CFA%20LEAGUE%201/Zhejiang%20Yiteng)
 - [ ] 内蒙古中优足球俱乐部
 - [ ] 梅州梅县铁汉足球俱乐部
 - [ ] 四川安纳普尔那足球俱乐部

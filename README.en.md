@@ -46,7 +46,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Meizhou Hakka](/CFA%20LEAGUE%201/Meizhou%20Hakka)
 - [x] [Yanbian Funde](/CFA%20LEAGUE%201/Yanbian%20Funde)
 - [x] [Shanghai Shenxin](/CFA%20LEAGUE%201/Shanghai%20Shenxin)
-- [ ] Zhejiang Yiteng
+- [x] [Zhejiang Yiteng](/CFA%20LEAGUE%201/Zhejiang%20Yiteng)
 - [ ] Nei Mongol Zhongyou
 - [ ] Meizhou Meixian Techand 
 - [ ] Sichuan Longfor
