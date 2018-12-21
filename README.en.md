@@ -2,6 +2,10 @@
 
 Collect and organize the vector graphics of Chinese football clubs badges for learning and reference.
 
+All logos are available in two versions: (01) color  and (02) monochrome version.
+
+Because the Chinese clubs lack team culture construction, some original design material is difficult to collect (especially for low-level league teams), so there are some logos that differ from the original design in details.
+
 Switch to other languages：[🇨🇳 简体中文](/README.md)
 
 ## CFA & LEAGUES & CUPS
