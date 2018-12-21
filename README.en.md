@@ -53,7 +53,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Zhejiang Yiteng](/CFA%20LEAGUE%201/Zhejiang%20Yiteng)
 - [x] [Inner Mongolia Zhongyou](/CFA%20LEAGUE%201/Inner%20Mongolia%20Zhongyou)
 - [x] [Meizhou Meixian Techand](/CFA%20LEAGUE%201/Meizhou%20Meixian%20Techand)
-- [ ] Sichuan Annapurna United
+- [x] [Sichuan Annapurna United](/CFA%20LEAGUE%201/Sichuan%20Annapurna%20United)
 - [ ] Nantong Zhiyun
 
 ## CFA League 2（League 2）

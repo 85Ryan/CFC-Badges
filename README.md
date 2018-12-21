@@ -53,7 +53,7 @@
 - [x] [浙江毅腾足球俱乐部](/CFA%20LEAGUE%201/Zhejiang%20Yiteng)
 - [x] [内蒙古中优足球俱乐部](/CFA%20LEAGUE%201/Inner%20Mongolia%20Zhongyou)
 - [x] [梅州梅县铁汉足球俱乐部](/CFA%20LEAGUE%201/Meizhou%20Meixian%20Techand)
-- [ ] 四川安纳普尔那足球俱乐部
+- [x] [四川安纳普尔那足球俱乐部](/CFA%20LEAGUE%201/Sichuan%20Annapurna%20United)
 - [ ] 南通支云足球俱乐部
  
 ## 中国足球协会乙级联赛（League 2）
