@@ -47,7 +47,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Yanbian Funde](/CFA%20LEAGUE%201/Yanbian%20Funde)
 - [x] [Shanghai Shenxin](/CFA%20LEAGUE%201/Shanghai%20Shenxin)
 - [x] [Zhejiang Yiteng](/CFA%20LEAGUE%201/Zhejiang%20Yiteng)
-- [ ] Nei Mongol Zhongyou
+- [x] [Inner Mongolia Zhongyou](/CFA%20LEAGUE%201/Inner%20Mongolia%20Zhongyou)
 - [ ] Meizhou Meixian Techand 
 - [ ] Sichuan Longfor
 - [ ] Nantong Zhiyun
