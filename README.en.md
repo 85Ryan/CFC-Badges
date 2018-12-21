@@ -48,8 +48,8 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Shanghai Shenxin](/CFA%20LEAGUE%201/Shanghai%20Shenxin)
 - [x] [Zhejiang Yiteng](/CFA%20LEAGUE%201/Zhejiang%20Yiteng)
 - [x] [Inner Mongolia Zhongyou](/CFA%20LEAGUE%201/Inner%20Mongolia%20Zhongyou)
-- [ ] Meizhou Meixian Techand 
-- [ ] Sichuan Longfor
+- [x] [Meizhou Meixian Techand](/CFA%20LEAGUE%201/Meizhou%20Meixian%20Techand)
+- [ ] Sichuan Annapurna United
 - [ ] Nantong Zhiyun
 
 ## CFA League 2（League 2）
