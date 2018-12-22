@@ -4,7 +4,7 @@ Collect and organize the vector graphics of Chinese football clubs badges for le
 
 All logos are available in two versions: (01) color  and (02) monochrome version.
 
-Because the Chinese clubs lack team culture construction, some original design material is difficult to collect (especially for low-level league teams), so there are some logos that differ from the original design in details.
+Because the Chinese clubs lack team culture construction, some original design material is difficult to collect (especially for low-level league clubs), so there are some logos that may differ slightly from the original design in details.
 
 Switch to other languages：[🇨🇳 简体中文](/README.md)
 
@@ -54,7 +54,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Inner Mongolia Zhongyou](/CFA%20LEAGUE%201/Inner%20Mongolia%20Zhongyou)
 - [x] [Meizhou Meixian Techand](/CFA%20LEAGUE%201/Meizhou%20Meixian%20Techand)
 - [x] [Sichuan Annapurna United](/CFA%20LEAGUE%201/Sichuan%20Annapurna%20United)
-- [ ] Nantong Zhiyun
+- [x] [Nantong Zhiyun](/CFA%20LEAGUE%201/Nantong%20Zhiyun)
 
 ## CFA League 2（League 2）
 - [ ] Dalian Transcendence
