@@ -58,7 +58,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 
 ## CFA League 2（League 2）
 - [ ] Dalian Transcendence
-- [ ] Xinjiang Tianshan Leopard
+- [x] [Xinjiang Tianshan Leopard](/CFA%20LEAGUE%202/Xinjiang%20Tianshan%20Leopard)
 - [x] [Kunshan FC](/CFA%20LEAGUE%202/Kunshan%20FC)
 
 ## CFA Member Association Champions League（CMCL）
