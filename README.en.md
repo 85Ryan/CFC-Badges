@@ -57,7 +57,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Nantong Zhiyun](/CFA%20LEAGUE%201/Nantong%20Zhiyun)
 
 ## CFA League 2（League 2）
-- [ ] Dalian Transcendence
+- [x] [Dalian Transcendence](/CFA%20LEAGUE%202/Dalian%20Transcendence)
 - [x] [Xinjiang Tianshan Leopard](/CFA%20LEAGUE%202/Xinjiang%20Tianshan%20Leopard)
 - [x] [Kunshan FC](/CFA%20LEAGUE%202/Kunshan%20FC)
 

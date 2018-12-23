@@ -58,7 +58,7 @@
  
 ## 中国足球协会乙级联赛（League 2）
 
-- [ ] 大连超越足球俱乐部
+- [x] [大连超越足球俱乐部](/CFA%20LEAGUE%202/Dalian%20Transcendence)
 - [x] [新疆天山雪豹足球俱乐部](/CFA%20LEAGUE%202/Xinjiang%20Tianshan%20Leopard)
 - [x] [昆山足球俱乐部](/CFA%20LEAGUE%202/Kunshan%20FC)
 
