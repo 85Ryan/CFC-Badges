@@ -57,9 +57,39 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Nantong Zhiyun](/CFA%20LEAGUE%201/Nantong%20Zhiyun)
 
 ## CFA League 2（League 2）
+
+### North
+
 - [x] [Dalian Transcendence](/CFA%20LEAGUE%202/Dalian%20Transcendence)
 - [x] [Xinjiang Tianshan Leopard](/CFA%20LEAGUE%202/Xinjiang%20Tianshan%20Leopard)
+- [ ] Shaanxi Chang'an Athletic
+- [ ] Jiangsu Yancheng Dingli
+- [ ] Shenyang Urban
+- [ ] Qingdao Jonoon
+- [ ] Yinchuan Helanshan
+- [ ] Hebei Elite
+- [ ] Jilin Baijia
+- [ ] Baoding Yingli Yitong
+- [ ] Dalian Boyoung
+- [ ] Zibo Sunday
+- [ ] Beijing BIT
+- [ ] Yanbian Beiguo
+- [ ] Baotou Nanjiao
+
+### South
+
+- [ ] Fujian Tianxin
+- [ ] Hunan Billows
+- [ ] Suzhou Dongwu
 - [x] [Kunshan FC](/CFA%20LEAGUE%202/Kunshan%20FC)
+- [ ] Hainan Boying
+- [ ] Shenzhen Pengcheng
+- [ ] Yunnan Feihu
+- [ ] Jiangxi Liansheng
+- [ ] Sichuan Jiuniu
+- [ ] Shanghai Sunfun
+- [ ] Chengdu Better City
+- [ ] Taizhou Yuanda
 
 ## CFA Member Association Champions League（CMCL）
 
