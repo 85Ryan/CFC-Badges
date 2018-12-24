@@ -60,8 +60,8 @@
 
 ### 北区
 
-- [x] [大连超越足球俱乐部](/CFA%20LEAGUE%202/Dalian%20Transcendence)
-- [x] [新疆天山雪豹足球俱乐部](/CFA%20LEAGUE%202/Xinjiang%20Tianshan%20Leopard)
+- [x] [大连超越足球俱乐部](/CFA%20LEAGUE%202/North/Dalian%20Transcendence)
+- [x] [新疆天山雪豹足球俱乐部](/CFA%20LEAGUE%202/North/Xinjiang%20Tianshan%20Leopard)
 - [ ] 陕西长安竞技足球俱乐部
 - [ ] 江苏盐城鼎立足球俱乐部
 - [ ] 沈阳城市足球俱乐部
@@ -81,14 +81,14 @@
 - [ ] 福建天信足球俱乐部
 - [ ] 湖南湘涛足球俱乐部
 - [ ] 苏州东吴足球俱乐部
-- [x] [昆山足球俱乐部](/CFA%20LEAGUE%202/Kunshan%20FC)
+- [x] [昆山足球俱乐部](/CFA%20LEAGUE%202/South/Kunshan%20FC)
 - [ ] 海南博盈足球俱乐部
 - [ ] 深圳鹏程足球俱乐部
 - [ ] 云南飞虎足球俱乐部
 - [ ] 江西联盛足球俱乐部
 - [ ] 四川九牛足球俱乐部
 - [ ] 上海申梵足球俱乐部
-- [x] [成都兴城足球俱乐部](/CFA%20LEAGUE%202/Chengdu%20Better%20City)
+- [x] [成都兴城足球俱乐部](/CFA%20LEAGUE%202/South/Chengdu%20Better%20City)
 - [ ] 泰州远大足球俱乐部
 
 ## 中国足球协会会员协会冠军联赛（CMCL）

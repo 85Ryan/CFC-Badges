@@ -60,8 +60,8 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 
 ### North
 
-- [x] [Dalian Transcendence](/CFA%20LEAGUE%202/Dalian%20Transcendence)
-- [x] [Xinjiang Tianshan Leopard](/CFA%20LEAGUE%202/Xinjiang%20Tianshan%20Leopard)
+- [x] [Dalian Transcendence](/CFA%20LEAGUE%202/North/Dalian%20Transcendence)
+- [x] [Xinjiang Tianshan Leopard](/CFA%20LEAGUE%202/North/Xinjiang%20Tianshan%20Leopard)
 - [ ] Shaanxi Chang'an Athletic
 - [ ] Jiangsu Yancheng Dingli
 - [ ] Shenyang Urban
@@ -81,14 +81,14 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [ ] Fujian Tianxin
 - [ ] Hunan Billows
 - [ ] Suzhou Dongwu
-- [x] [Kunshan FC](/CFA%20LEAGUE%202/Kunshan%20FC)
+- [x] [Kunshan FC](/CFA%20LEAGUE%202/South/Kunshan%20FC)
 - [ ] Hainan Boying
 - [ ] Shenzhen Pengcheng
 - [ ] Yunnan Feihu
 - [ ] Jiangxi Liansheng
 - [ ] Sichuan Jiuniu
 - [ ] Shanghai Sunfun
-- [x] [Chengdu Better City](/CFA%20LEAGUE%202/Chengdu%20Better%20City)
+- [x] [Chengdu Better City](/CFA%20LEAGUE%202/South/Chengdu%20Better%20City)
 - [ ] Taizhou Yuanda
 
 ## CFA Member Association Champions League（CMCL）
