@@ -88,7 +88,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [ ] Jiangxi Liansheng
 - [ ] Sichuan Jiuniu
 - [ ] Shanghai Sunfun
-- [ ] Chengdu Better City
+- [x] [Chengdu Better City](/CFA%20LEAGUE%202/Chengdu%20Better%20City)
 - [ ] Taizhou Yuanda
 
 ## CFA Member Association Champions League（CMCL）
