@@ -62,7 +62,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 
 - [x] [Dalian Transcendence](/CFA%20LEAGUE%202/North/Dalian%20Transcendence)
 - [x] [Xinjiang Tianshan Leopard](/CFA%20LEAGUE%202/North/Xinjiang%20Tianshan%20Leopard)
-- [ ] Shaanxi Chang'an Athletic
+- [x] [Shaanxi Chang'an Athletic](/CFA%20LEAGUE%202/North/Shaanxi%20Chang'an%20Athletic)
 - [ ] Jiangsu Yancheng Dingli
 - [ ] Shenyang Urban
 - [ ] Qingdao Jonoon

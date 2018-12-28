@@ -62,7 +62,7 @@
 
 - [x] [大连超越足球俱乐部](/CFA%20LEAGUE%202/North/Dalian%20Transcendence)
 - [x] [新疆天山雪豹足球俱乐部](/CFA%20LEAGUE%202/North/Xinjiang%20Tianshan%20Leopard)
-- [ ] 陕西长安竞技足球俱乐部
+- [x] [陕西长安竞技足球俱乐部](/CFA%20LEAGUE%202/North/Shaanxi%20Chang'an%20Athletic)
 - [ ] 江苏盐城鼎立足球俱乐部
 - [ ] 沈阳城市足球俱乐部
 - [ ] 青岛中能足球俱乐部
