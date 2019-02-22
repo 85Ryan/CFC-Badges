@@ -50,18 +50,17 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Meizhou Hakka](/CFA%20LEAGUE%201/Meizhou%20Hakka)
 - [x] [Yanbian Funde](/CFA%20LEAGUE%201/Yanbian%20Funde)
 - [x] [Shanghai Shenxin](/CFA%20LEAGUE%201/Shanghai%20Shenxin)
-- [x] [Zhejiang Yiteng](/CFA%20LEAGUE%201/Zhejiang%20Yiteng)
 - [x] [Inner Mongolia Zhongyou](/CFA%20LEAGUE%201/Inner%20Mongolia%20Zhongyou)
 - [x] [Meizhou Meixian Techand](/CFA%20LEAGUE%201/Meizhou%20Meixian%20Techand)
 - [x] [Sichuan Annapurna United](/CFA%20LEAGUE%201/Sichuan%20Annapurna%20United)
 - [x] [Nantong Zhiyun](/CFA%20LEAGUE%201/Nantong%20Zhiyun)
+- [x] [Xinjiang Tianshan Leopard](/CFA%20LEAGUE%20/Xinjiang%20Tianshan%20Leopard)
 
 ## CFA League 2（League 2）
 
 ### North
 
 - [x] [Dalian Transcendence](/CFA%20LEAGUE%202/North/Dalian%20Transcendence)
-- [x] [Xinjiang Tianshan Leopard](/CFA%20LEAGUE%202/North/Xinjiang%20Tianshan%20Leopard)
 - [x] [Shaanxi Chang'an Athletic](/CFA%20LEAGUE%202/North/Shaanxi%20Chang'an%20Athletic)
 - [ ] Jiangsu Yancheng Dingli
 - [ ] Shenyang Urban
@@ -78,6 +77,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 
 ### South
 
+- [x] [Zhejiang Yiteng](/CFA%20LEAGUE%202/South/Zhejiang%20Yiteng)
 - [ ] Fujian Tianxin
 - [ ] Hunan Billows
 - [ ] Suzhou Dongwu
