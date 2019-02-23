@@ -43,7 +43,7 @@
 - [x] [贵州恒丰足球俱乐部](/CFA%20LEAGUE%201/Guizhou%20Hengfeng)
 - [x] [浙江绿城足球俱乐部](/CFA%20LEAGUE%201/Zhejiang%20Greentown)
 - [x] [青岛黄海足球俱乐部](/CFA%20LEAGUE%201/Qingdao%20Huanghai)
-- [x] [北京控股足球俱乐部](/CFA%20LEAGUE%201/Beijing%20Enterprises)
+- [x] [北京北体大足球俱乐部](/CFA%20LEAGUE%201/Beijing%20BSU)
 - [x] [石家庄永昌足球俱乐部](/CFA%20LEAGUE%201/Shijiazhuang%20Ever%20Bright)
 - [x] [黑龙江火山鸣泉足球俱乐部](/CFA%20LEAGUE%201/Heilongjiang%20Lava%20Spring)
 - [x] [辽宁足球俱乐部](/CFA%20LEAGUE%201/Liaoning%20FC)
