@@ -51,7 +51,7 @@
 - [x] [延边富德足球俱乐部](/CFA%20LEAGUE%201/Yanbian%20Funde)
 - [x] [上海申鑫足球俱乐部](/CFA%20LEAGUE%201/Shanghai%20Shenxin)
 - [x] [内蒙古中优足球俱乐部](/CFA%20LEAGUE%201/Inner%20Mongolia%20Zhongyou)
-- [x] [梅州梅县铁汉足球俱乐部](/CFA%20LEAGUE%201/Meizhou%20Meixian%20Techand)
+- [x] [广东华南虎足球俱乐部](/CFA%20LEAGUE%201/Guangdong%20Southern%20Tigers)
 - [x] [四川安纳普尔那足球俱乐部](/CFA%20LEAGUE%201/Sichuan%20Annapurna%20United)
 - [x] [南通支云足球俱乐部](/CFA%20LEAGUE%201/Nantong%20Zhiyun)
 - [x] [新疆天山雪豹足球俱乐部](/CFA%20LEAGUE%201/Xinjiang%20Tianshan%20Leopard)
