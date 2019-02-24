@@ -64,7 +64,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Shaanxi Chang'an Athletic](/CFA%20LEAGUE%202/North/Shaanxi%20Chang'an%20Athletic)
 - [ ] Jiangsu Yancheng Dingli
 - [ ] Shenyang Urban
-- [ ] Qingdao Jonoon
+- [x] [Qingdao Jonoon](/CFA%20LEAGUE%202/North/Qingdao%20Jonoon)
 - [ ] Yinchuan Helanshan
 - [ ] Hebei Elite
 - [ ] Jilin Baijia
