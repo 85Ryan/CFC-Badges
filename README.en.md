@@ -80,7 +80,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Zhejiang Yiteng](/CFA%20LEAGUE%202/South/Zhejiang%20Yiteng)
 - [ ] Fujian Tianxin
 - [ ] Hunan Billows
-- [ ] Suzhou Dongwu
+- [x] [Suzhou Dongwu](/CFA%20LEAGUE%202/South/Suzhou%20Dongwu)
 - [x] [Kunshan FC](/CFA%20LEAGUE%202/South/Kunshan%20FC)
 - [ ] Hainan Boying
 - [ ] Shenzhen Pengcheng

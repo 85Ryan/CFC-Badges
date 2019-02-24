@@ -80,7 +80,7 @@
 - [x] [浙江毅腾足球俱乐部](/CFA%20LEAGUE%202/South/Zhejiang%20Yiteng)
 - [ ] 福建天信足球俱乐部
 - [ ] 湖南湘涛足球俱乐部
-- [ ] 苏州东吴足球俱乐部
+- [x] [苏州东吴足球俱乐部](/CFA%20LEAGUE%202/South/Suzhou%20Dongwu)
 - [x] [昆山足球俱乐部](/CFA%20LEAGUE%202/South/Kunshan%20FC)
 - [ ] 海南博盈足球俱乐部
 - [ ] 深圳鹏程足球俱乐部
