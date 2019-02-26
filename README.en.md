@@ -70,7 +70,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [ ] Jilin Baijia
 - [ ] Baoding Yingli Yitong
 - [ ] Dalian Boyoung
-- [ ] Zibo Sunday
+- [x] [Zibo Cuju](/CFA%20LEAGUE%202/North/Zibo%20Cuju)
 - [ ] Beijing BIT
 - [ ] Yanbian Beiguo
 - [ ] Baotou Nanjiao
