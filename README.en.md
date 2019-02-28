@@ -48,7 +48,6 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Heilongjiang Lava Spring](/CFA%20LEAGUE%201/Heilongjiang%20Lava%20Spring)
 - [x] [Liaoning FC](/CFA%20LEAGUE%201/Liaoning%20FC)
 - [x] [Meizhou Hakka](/CFA%20LEAGUE%201/Meizhou%20Hakka)
-- [x] ~~[Yanbian Funde(DISBAND)](/CFA%20LEAGUE%201/Yanbian%20Funde)~~
 - [x] [Shanghai Shenxin](/CFA%20LEAGUE%201/Shanghai%20Shenxin)
 - [x] [Inner Mongolia Zhongyou](/CFA%20LEAGUE%201/Inner%20Mongolia%20Zhongyou)
 - [x] [Guangdong Southern Tigers](/CFA%20LEAGUE%201/Guangdong%20Southern%20Tigers)
@@ -56,6 +55,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Nantong Zhiyun](/CFA%20LEAGUE%201/Nantong%20Zhiyun)
 - [x] [Xinjiang Tianshan Leopard](/CFA%20LEAGUE%20/Xinjiang%20Tianshan%20Leopard)
 - [x] [Shaanxi Chang'an Athletic](/CFA%20LEAGUE%201/Shaanxi%20Chang'an%20Athletic)
+- [x] ~~[Yanbian Funde(DISBAND)](/CFA%20LEAGUE%201/Yanbian%20Funde(DISBAND))~~
 
 ## CFA League 2（League 2）
 
@@ -77,7 +77,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [ ] Shanxi Metropolis
 - [ ] Xi'an Daxing Chongde
 - [ ] Qingdao Red Lions
-- [x] ~~[Dalian Transcendence(DISBAND)](/CFA%20LEAGUE%202/North/Dalian%20Transcendence)~~
+- [x] ~~[Dalian Transcendence(DISBAND)](/CFA%20LEAGUE%202/North/Dalian%20Transcendence(DISBAND))~~
 
 ### South
 

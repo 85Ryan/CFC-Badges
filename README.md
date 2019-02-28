@@ -48,7 +48,6 @@
 - [x] [黑龙江火山鸣泉足球俱乐部](/CFA%20LEAGUE%201/Heilongjiang%20Lava%20Spring)
 - [x] [辽宁足球俱乐部](/CFA%20LEAGUE%201/Liaoning%20FC)
 - [x] [梅州客家足球俱乐部](/CFA%20LEAGUE%201/Meizhou%20Hakka)
-- [x] ~~[延边富德足球俱乐部（解散）](/CFA%20LEAGUE%201/Yanbian%20Funde)~~
 - [x] [上海申鑫足球俱乐部](/CFA%20LEAGUE%201/Shanghai%20Shenxin)
 - [x] [内蒙古中优足球俱乐部](/CFA%20LEAGUE%201/Inner%20Mongolia%20Zhongyou)
 - [x] [广东华南虎足球俱乐部](/CFA%20LEAGUE%201/Guangdong%20Southern%20Tigers)
@@ -56,6 +55,7 @@
 - [x] [南通支云足球俱乐部](/CFA%20LEAGUE%201/Nantong%20Zhiyun)
 - [x] [新疆天山雪豹足球俱乐部](/CFA%20LEAGUE%201/Xinjiang%20Tianshan%20Leopard)
 - [x] [陕西长安竞技足球俱乐部](/CFA%20LEAGUE%201/Shaanxi%20Chang'an%20Athletic)
+- [x] ~~[延边富德足球俱乐部（解散）](/CFA%20LEAGUE%201/Yanbian%20Funde(DISBAND))~~
  
 ## 中国足球协会乙级联赛（League 2）
 
@@ -77,7 +77,7 @@
 - [ ] 山西信都足球俱乐部
 - [ ] 西安大兴崇德足球俱乐部
 - [ ] 青岛红狮足球俱乐部
-- [x] ~~[大连超越足球俱乐部（解散）](/CFA%20LEAGUE%202/North/Dalian%20Transcendence)~~
+- [x] ~~[大连超越足球俱乐部（解散）](/CFA%20LEAGUE%202/North/Dalian%20Transcendence(DISBAND))~~
 
 ### 南区
 
