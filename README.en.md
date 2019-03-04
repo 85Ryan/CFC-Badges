@@ -65,7 +65,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [ ] Shenyang Urban
 - [ ] Hebei Aoli Elite
 - [x] [Zibo Cuju](/CFA%20LEAGUE%202/North/Zibo%20Cuju)
-- [ ] Jiangsu Yancheng Dingli
+- [x] [Jiangsu Yancheng Dingli](/CFA%20LEAGUE%202/North/Jiangsu%20Yancheng%20Dingli)
 - [ ] Dalian Chanjoy
 - [ ] Jilin Baijia
 - [ ] Yinchuan Helanshan
@@ -100,60 +100,60 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 
 ## CFA Member Association Champions League（CMCL）
 
-- [ ] 惠州惠新足球俱乐部
-- [ ] 茂名油都足球俱乐部
-- [ ] 深圳壆岗足球俱乐部
-- [ ] 柳州远道足球俱乐部
-- [ ] 南宁滨江足球俱乐部
-- [ ] 澳门发展足球队
-- [ ] 上海搏击长空足球俱乐部
-- [ ] 南京巴兰塔足球俱乐部
-- [ ] 扬州华奥风云足球俱乐部
-- [ ] 湖州乐湖足球俱乐部
-- [ ] 金华中筹足球俱乐部
-- [ ] 厦门南薰足球俱乐部
-- [ ] 营口超越足球俱乐部
-- [ ] 丹东瀚通足球俱乐部
-- [ ] 山西至盛足球俱乐部
-- [ ] 晋中晋之虎足球俱乐部
-- [ ] 青岛中创恒泰足球俱乐部
-- [ ] 肇庆天峰东湖足球俱乐部
-- [ ] 广州国体茵超足球俱乐部
-- [ ] 海南红色战车足球俱乐部
-- [ ] 海南琼海京海成足球俱乐部
-- [ ] 福州恒星足球俱乐部
-- [ ] 荷泽曹州足球俱乐部
-- [ ] 淄博起源地足球俱乐部
-- [ ] 呼伦贝尔锡尼河足球俱乐部
-- [ ] 鄂温克雄鹰足球俱乐部
-- [ ] 大连华亿足球俱乐部
-- [ ] 延边海兰江足球俱乐部
-- [ ] 四川顶耀足球俱乐部
-- [ ] 成都德驰足球俱乐部
-- [ ] 重庆市笛凯机电足球俱乐部
-- [ ] 重庆润麟足球俱乐部
-- [ ] 西安优柯足球俱乐部
-- [ ] 湖北华创足球俱乐部
-- [ ] 武汉弗瑞曼足球俱乐部
-- [ ] 河南东方今典足球俱乐部
-- [ ] 洛阳赛乐足球俱乐部
-- [ ] 济南槐星足球俱乐部
-- [ ] 甘肃麦斯力足球俱乐部
-- [ ] 兰州海陆兰润足球俱乐部
-- [ ] 榆林草根足球俱乐部
-- [ ] 西安高新易联足球俱乐部
-- [ ] 乌兰察布奇乐足球俱乐部
-- [ ] 厦门南虎足球俱乐部
-- [ ] 厦门真豪足球俱乐部
-- [ ] 湖北武体载铭足球俱乐部
-- [ ] 海南陵水鼎力足球俱乐部
-- [ ] 海南万宁腾骥足球俱乐部
-- [ ] 宁波大榭银博足球俱乐部
-- [ ] 南京枫帆足球俱乐部
-- [ ] 上海华交足球俱乐部
-- [ ] 上海呈讯足球俱乐部
-- [ ] 芜湖龙翔足球俱乐部
-- [ ] 安徽华强足球俱乐部
+- [ ] Huizhou Huixin
+- [ ] Moming Oil City
+- [ ] Shenzhen Bogang
+- [ ] Liuzhou Ranko
+- [ ] Nanning Binjiang
+- [ ] Macau FA Developent
+- [ ] Shanghai Boji
+- [ ] Nanjing Baranta
+- [ ] Yangzhou Huaao Fengyun
+- [ ] Huzhou Lehuo
+- [ ] Jinhua Zhongchou
+- [ ] Xiamen Nanxun
+- [ ] Yingkou Chaoyue
+- [ ] Dandong Hantong
+- [ ] Shanxi Zhisheng
+- [ ] Shanxi Jin Tiger
+- [ ] Qingdao Kangtine
+- [ ] Zhaoqing Topfung Eastlake
+- [ ] Guangzhou Glorious
+- [ ] Hainan Red Chariot
+- [ ] Hainan Qionghai Jinghaicheng
+- [ ] Fuzhou Hengxing
+- [ ] Heze Caozhou
+- [ ] Zibo Birthplace
+- [ ] Hunlunbuir Xinihe
+- [ ] Ewenki Xiongying
+- [ ] Dalian Huayi
+- [ ] Yanbian Hailanjiang
+- [ ] Sichuang Top Shine
+- [ ] Chengdu Decci
+- [ ] Chongqiong Shapinba Dikai
+- [ ] Chongqiong Runlin
+- [ ] Xi'an Youke
+- [ ] Hubei Huachuang
+- [ ] Wuhan Freeman
+- [ ] Henan Oriental Classic
+- [ ] Luoyang Saile
+- [ ] Jinan Huaixing
+- [ ] Gansu Mass Ray
+- [ ] Lanzhou Marine Corps
+- [ ] Yulin Caogen
+- [ ] Xi'an High-tech
+- [ ] Ulanqab Qile
+- [ ] Xiamen Nanhu
+- [ ] Xiamen Zhenhao
+- [ ] Hubei Wuhan Athletics Zaiming
+- [ ] Hainan Lingshui Dingli
+- [ ] Hainan Wangning Tengji
+- [ ] Ningbo Daxie Yinbo
+- [ ] Nanjing Fengfan
+- [ ] Shanghai Huajiao
+- [ ] Shanghai SAIC
+- [ ] Wuhu Longxiang
+- [ ] Anhui Huaqiang
 
 ## STATEMENT
 
