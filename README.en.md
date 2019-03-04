@@ -100,60 +100,89 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 
 ## CFA Member Association Champions League（CMCL）
 
+### Group A
+
 - [ ] Huizhou Huixin
 - [ ] Moming Oil City
 - [ ] Shenzhen Bogang
 - [ ] Liuzhou Ranko
-- [ ] Nanning Binjiang
 - [ ] Macau FA Developent
-- [ ] Shanghai Boji
+- [ ] Nanning Binjiang
+
+### Group B
+
 - [ ] Nanjing Baranta
 - [ ] Yangzhou Huaao Fengyun
 - [ ] Huzhou Lehuo
-- [ ] Jinhua Zhongchou
 - [ ] Xiamen Nanxun
-- [ ] Yingkou Chaoyue
-- [ ] Dandong Hantong
+- [ ] Shanghai Boji
+- [ ] Jinhua Zhongchou
+
+### Group C
+
 - [ ] Shanxi Zhisheng
 - [ ] Shanxi Jin Tiger
 - [ ] Qingdao Kangtine
+- [ ] Yingkou Chaoyue
+- [ ] Dandong Hantong
+
+### Group D
+
 - [ ] Zhaoqing Topfung Eastlake
 - [ ] Guangzhou Glorious
-- [ ] Hainan Red Chariot
 - [ ] Hainan Qionghai Jinghaicheng
 - [ ] Fuzhou Hengxing
+- [ ] Hainan Red Chariot
+
+### Group E
+
 - [ ] Heze Caozhou
 - [ ] Zibo Birthplace
+- [ ] Dalian Huayi
 - [ ] Hunlunbuir Xinihe
 - [ ] Ewenki Xiongying
-- [ ] Dalian Huayi
 - [ ] Yanbian Hailanjiang
+
+### Group F
+
 - [ ] Sichuang Top Shine
 - [ ] Chengdu Decci
+- [ ] Xi'an Youke
 - [ ] Chongqiong Shapinba Dikai
 - [ ] Chongqiong Runlin
-- [ ] Xi'an Youke
+
+### Group G
+
 - [ ] Hubei Huachuang
 - [ ] Wuhan Freeman
+- [ ] Shangdong Wangyue
 - [ ] Henan Oriental Classic
 - [ ] Luoyang Saile
-- [ ] Jinan Huaixing
+
+### Group H
+
 - [ ] Gansu Mass Ray
 - [ ] Lanzhou Marine Corps
+- [ ] Ulanqab Qile
 - [ ] Yulin Caogen
 - [ ] Xi'an High-tech
-- [ ] Ulanqab Qile
+
+### Group I
+
 - [ ] Xiamen Nanhu
 - [ ] Xiamen Zhenhao
 - [ ] Hubei Wuhan Athletics Zaiming
 - [ ] Hainan Lingshui Dingli
 - [ ] Hainan Wangning Tengji
 - [ ] Ningbo Daxie Yinbo
-- [ ] Nanjing Fengfan
-- [ ] Shanghai Huajiao
-- [ ] Shanghai SAIC
-- [ ] Wuhu Longxiang
+
+### Group J
+
 - [ ] Anhui Huaqiang
+- [ ] Wuhu Longxiang
+- [ ] Nanjing Fengfan
+- [ ] Shanghai SAIC
+- [ ] Shanghai Huajiao
 
 ## STATEMENT
 
