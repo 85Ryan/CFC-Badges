@@ -66,7 +66,7 @@
 - [ ] 河北奥利精英足球俱乐部
 - [x] [淄博蹴鞠足球俱乐部](/CFA%20LEAGUE%202/North/Zibo%20Cuju)
 - [x] [江苏盐城鼎立足球俱乐部](/CFA%20LEAGUE%202/North/Jiangsu%20Yancheng%20Dingli)
-- [ ] 大连千兆足球俱乐部
+- [x] [大连千兆足球俱乐部](/CFA%20LEAGUE%202/North/Dalian%20Chanjoy)
 - [ ] 吉林百嘉足球俱乐部
 - [ ] 银川贺兰山足球俱乐部
 - [ ] 延边北国足球俱乐部

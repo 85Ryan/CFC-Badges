@@ -66,7 +66,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [ ] Hebei Aoli Elite
 - [x] [Zibo Cuju](/CFA%20LEAGUE%202/North/Zibo%20Cuju)
 - [x] [Jiangsu Yancheng Dingli](/CFA%20LEAGUE%202/North/Jiangsu%20Yancheng%20Dingli)
-- [ ] Dalian Chanjoy
+- [x] [Dalian Chanjoy](/CFA%20LEAGUE%202/North/Dalian%20Chanjoy)
 - [ ] Jilin Baijia
 - [ ] Yinchuan Helanshan
 - [ ] Yanbian Beiguo
