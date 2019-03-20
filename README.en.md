@@ -70,7 +70,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Jilin Baijia](/CFA%20LEAGUE%202/North/Jilin%20Baijia)
 - [ ] Yinchuan Helanshan
 - [x] [Yanbian Beiguo](/CFA%20LEAGUE%202/North/Yanbian%20Beiguo)
-- [ ] Beijing BIT
+- [x] [Beijing BIT](/CFA%20LEAGUE%202/North/Beijing%20BIT)
 - [ ] Taizhou Yuanda
 - [ ] Baoding Yingli Yitong
 - [ ] Inner Mongolia Caoshangfei
