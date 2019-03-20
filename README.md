@@ -69,7 +69,7 @@
 - [x] [大连千兆足球俱乐部](/CFA%20LEAGUE%202/North/Dalian%20Chanjoy)
 - [x] [吉林百嘉足球俱乐部](/CFA%20LEAGUE%202/North/Jilin%20Baijia)
 - [ ] 银川贺兰山足球俱乐部
-- [ ] 延边北国足球俱乐部
+- [x] [延边北国足球俱乐部](/CFA%20LEAGUE%202/North/Yanbian%20Beiguo)
 - [ ] 北京理工足球俱乐部
 - [ ] 泰州远大足球俱乐部
 - [ ] 保定英利易通足球俱乐部

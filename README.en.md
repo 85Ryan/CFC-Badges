@@ -69,7 +69,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Dalian Chanjoy](/CFA%20LEAGUE%202/North/Dalian%20Chanjoy)
 - [x] [Jilin Baijia](/CFA%20LEAGUE%202/North/Jilin%20Baijia)
 - [ ] Yinchuan Helanshan
-- [ ] Yanbian Beiguo
+- [x] [Yanbian Beiguo](/CFA%20LEAGUE%202/North/Yanbian%20Beiguo)
 - [ ] Beijing BIT
 - [ ] Taizhou Yuanda
 - [ ] Baoding Yingli Yitong
