@@ -71,7 +71,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [ ] Yinchuan Helanshan
 - [x] [Yanbian Beiguo](/CFA%20LEAGUE%202/North/Yanbian%20Beiguo)
 - [x] [Beijing BIT](/CFA%20LEAGUE%202/North/Beijing%20BIT)
-- [ ] Taizhou Yuanda
+- [x] [Taizhou Yuanda](/CFA%20LEAGUE%202/North/Taizhou%20Yuanda)
 - [ ] Baoding Yingli Yitong
 - [ ] Inner Mongolia Caoshangfei
 - [ ] Shanxi Metropolis

@@ -71,7 +71,7 @@
 - [ ] 银川贺兰山足球俱乐部
 - [x] [延边北国足球俱乐部](/CFA%20LEAGUE%202/North/Yanbian%20Beiguo)
 - [x] [北京理工足球俱乐部](/CFA%20LEAGUE%202/North/Beijing%20BIT)
-- [ ] 泰州远大足球俱乐部
+- [x] [泰州远大足球俱乐部](/CFA%20LEAGUE%202/North/Taizhou%20Yuanda)
 - [ ] 保定英利易通足球俱乐部
 - [ ] 内蒙古草上飞足球俱乐部
 - [ ] 山西信都足球俱乐部
