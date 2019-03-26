@@ -73,7 +73,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Beijing BIT](/CFA%20LEAGUE%202/North/Beijing%20BIT)
 - [x] [Taizhou Yuanda](/CFA%20LEAGUE%202/North/Taizhou%20Yuanda)
 - [x] [Baoding Yingli Yitong](/CFA%20LEAGUE%202/North/Baoding%20Yingli%20Yitong)
-- [ ] Inner Mongolia Caoshangfei
+- [x] [Inner Mongolia Caoshangfei](/CFA%20LEAGUE%202/North/Inner%20Mongolia%20Caoshangfei)
 - [ ] Shanxi Metropolis
 - [ ] Xi'an Daxing Chongde
 - [ ] Qingdao Red Lions
