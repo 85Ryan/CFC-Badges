@@ -63,7 +63,7 @@
 
 - [x] [青岛中能足球俱乐部](/CFA%20LEAGUE%202/North/Qingdao%20Jonoon)
 - [ ] 沈阳城市足球俱乐部
-- [ ] 河北奥利精英足球俱乐部
+- [x] [河北奥利精英足球俱乐部](/CFA%20LEAGUE%202/North/Hebei%20Aoli%20Elite)
 - [x] [淄博蹴鞠足球俱乐部](/CFA%20LEAGUE%202/North/Zibo%20Cuju)
 - [x] [江苏盐城鼎立足球俱乐部](/CFA%20LEAGUE%202/North/Jiangsu%20Yancheng%20Dingli)
 - [x] [大连千兆足球俱乐部](/CFA%20LEAGUE%202/North/Dalian%20Chanjoy)

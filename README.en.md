@@ -63,7 +63,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 
 - [x] [Qingdao Jonoon](/CFA%20LEAGUE%202/North/Qingdao%20Jonoon)
 - [ ] Shenyang Urban
-- [ ] Hebei Aoli Elite
+- [x] [Hebei Aoli Elite](/CFA%20LEAGUE%202/North/Hebei%20Aoli%20Elite)
 - [x] [Zibo Cuju](/CFA%20LEAGUE%202/North/Zibo%20Cuju)
 - [x] [Jiangsu Yancheng Dingli](/CFA%20LEAGUE%202/North/Jiangsu%20Yancheng%20Dingli)
 - [x] [Dalian Chanjoy](/CFA%20LEAGUE%202/North/Dalian%20Chanjoy)
