@@ -74,7 +74,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Taizhou Yuanda](/CFA%20LEAGUE%202/North/Taizhou%20Yuanda)
 - [x] [Baoding Yingli Yitong](/CFA%20LEAGUE%202/North/Baoding%20Yingli%20Yitong)
 - [x] [Inner Mongolia Caoshangfei](/CFA%20LEAGUE%202/North/Inner%20Mongolia%20Caoshangfei)
-- [ ] Shanxi Metropolis
+- [x] [Shanxi Metropolis](/CFA%20LEAGUE%202/North/Shanxi%20Metropolis)
 - [ ] Xi'an Daxing Chongde
 - [ ] Qingdao Red Lions
 - [x] ~~[Dalian Transcendence(DISBAND)](/CFA%20LEAGUE%202/North/Dalian%20Transcendence(DISBAND))~~
