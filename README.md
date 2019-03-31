@@ -75,7 +75,7 @@
 - [x] [保定英利易通足球俱乐部](/CFA%20LEAGUE%202/North/Baoding%20Yingli%20Yitong)
 - [x] [内蒙古草上飞足球俱乐部](/CFA%20LEAGUE%202/North/Inner%20Mongolia%20Caoshangfei)
 - [x] [山西信都足球俱乐部](/CFA%20LEAGUE%202/North/Shanxi%20Metropolis)
-- [ ] 西安大兴崇德足球俱乐部
+- [x] [西安大兴崇德足球俱乐部](/CFA%20LEAGUE%202/North/Xi'an%20Daxing%20Chongde)
 - [ ] 青岛红狮足球俱乐部
 - [x] ~~[大连超越足球俱乐部（解散）](/CFA%20LEAGUE%202/North/Dalian%20Transcendence(DISBAND))~~
 
