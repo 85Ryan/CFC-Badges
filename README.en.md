@@ -76,7 +76,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Inner Mongolia Caoshangfei](/CFA%20LEAGUE%202/North/Inner%20Mongolia%20Caoshangfei)
 - [x] [Shanxi Metropolis](/CFA%20LEAGUE%202/North/Shanxi%20Metropolis)
 - [x] [Xi'an Daxing Chongde](/CFA%20LEAGUE%202/North/Xi'an%20Daxing%20Chongde)
-- [ ] Qingdao Red Lions
+- [x] [Qingdao Red Lions](/CFA%20LEAGUE%202/North/Qingdao%20Red%20Lions)
 - [x] ~~[Dalian Transcendence(DISBAND)](/CFA%20LEAGUE%202/North/Dalian%20Transcendence(DISBAND))~~
 
 ### South
