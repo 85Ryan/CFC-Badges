@@ -82,7 +82,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 ### South
 
 - [x] [Kunshan FC](/CFA%20LEAGUE%202/South/Kunshan%20FC)
-- [ ] Shenzhen Pengcheng
+- [x] [Shenzhen Pengcheng](/CFA%20LEAGUE%202/South/Shenzhen%20Pengcheng)
 - [x] [Zhejiang Yiteng](/CFA%20LEAGUE%202/South/Zhejiang%20Yiteng)
 - [x] [Suzhou Dongwu](/CFA%20LEAGUE%202/South/Suzhou%20Dongwu)
 - [ ] Jiangxi Liansheng
