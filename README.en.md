@@ -85,7 +85,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Shenzhen Pengcheng](/CFA%20LEAGUE%202/South/Shenzhen%20Pengcheng)
 - [x] [Zhejiang Yiteng](/CFA%20LEAGUE%202/South/Zhejiang%20Yiteng)
 - [x] [Suzhou Dongwu](/CFA%20LEAGUE%202/South/Suzhou%20Dongwu)
-- [ ] Jiangxi Liansheng
+- [X] [Jiangxi Liansheng](/CFA%20LEAGUE%202/South/Jiangxi%20Liansheng)
 - [ ] Sichuan Jiuniu
 - [ ] Fujian Tianxin
 - [ ] Hunan Billows

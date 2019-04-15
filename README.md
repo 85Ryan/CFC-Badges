@@ -85,7 +85,7 @@
 - [x] [深圳鹏程足球俱乐部](/CFA%20LEAGUE%202/South/Shenzhen%20Pengcheng)
 - [x] [浙江毅腾足球俱乐部](/CFA%20LEAGUE%202/South/Zhejiang%20Yiteng)
 - [x] [苏州东吴足球俱乐部](/CFA%20LEAGUE%202/South/Suzhou%20Dongwu)
-- [ ] 江西联盛足球俱乐部
+- [x] [江西联盛足球俱乐部](/CFA%20LEAGUE%202/South/Jiangxi%20Liansheng)
 - [ ] 四川九牛足球俱乐部
 - [ ] 福建天信足球俱乐部
 - [ ] 湖南湘涛足球俱乐部
