@@ -86,7 +86,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Zhejiang Yiteng](/CFA%20LEAGUE%202/South/Zhejiang%20Yiteng)
 - [x] [Suzhou Dongwu](/CFA%20LEAGUE%202/South/Suzhou%20Dongwu)
 - [X] [Jiangxi Liansheng](/CFA%20LEAGUE%202/South/Jiangxi%20Liansheng)
-- [ ] Sichuan Jiuniu
+- [x] [Sichuan Jiuniu](/CFA%20LEAGUE%202/South/Sichuan%20Jiuniu)
 - [ ] Fujian Tianxin
 - [ ] Hunan Billows
 - [ ] Lhasa UCI
