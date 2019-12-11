@@ -90,7 +90,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Fujian Tianxin](/CFA%20LEAGUE%202/South/Fujian%20Tianxin)
 - [ ] Hunan Billows
 - [ ] Lhasa UCI
-- [ ] Wuhan Three Towns
+- [x] [Wuhan Three Towns](/CFA%20LEAGUE%202/South/Wuhan%20Three%20Towns)
 - [ ] Nanjing Shaye
 - [x] [Chengdu Better City](/CFA%20LEAGUE%202/South/Chengdu%20Better%20City)
 - [ ] Hubei Chufeng Heli
