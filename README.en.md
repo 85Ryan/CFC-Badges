@@ -91,7 +91,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [ ] Hunan Billows
 - [ ] Lhasa UCI
 - [x] [Wuhan Three Towns](/CFA%20LEAGUE%202/South/Wuhan%20Three%20Towns)
-- [ ] Nanjing Shaye
+- [x] [Nanjing Shaye](/CFA%20LEAGUE%202/South/Nanjing%20Shaye)
 - [x] [Chengdu Better City](/CFA%20LEAGUE%202/South/Chengdu%20Better%20City)
 - [ ] Hubei Chufeng Heli
 - [ ] Yunnan Kunlu
