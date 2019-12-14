@@ -15,7 +15,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [CFA League 1（League 1）](/CFA%20&%20LEAGUES%20&%20CUPS/CFA%20League%201)
 - [x] [CFA League 2（League 2）](/CFA%20&%20LEAGUES%20&%20CUPS/CFA%20League%202)
 - [ ] CFA Member Association Champions League（CMCL）
-- [ ] CFA CUP
+- [x] [CFA CUP](/CFA%20&%20LEAGUES%20&%20CUPS/CFA%20CUP)
 - [ ] CFA SUPER CUP
 
 ## CFA Super League（CSL）

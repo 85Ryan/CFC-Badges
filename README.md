@@ -15,7 +15,7 @@
 - [x] [中国足球协会甲级联赛（League 1）](/CFA%20&%20LEAGUES%20&%20CUPS/CFA%20League%201)
 - [x] [中国足球协会乙级联赛（League 2）](/CFA%20&%20LEAGUES%20&%20CUPS/CFA%20League%202)
 - [ ] 中国足球协会会员协会冠军联赛（CMCL）
-- [ ] 中国足球协会杯（CFA CUP）
+- [x] [中国足球协会杯（CFA CUP）](/CFA%20&%20LEAGUES%20&%20CUPS/CFA%20CUP)
 - [ ] 中国足球协会超级杯（CFA SUPER CUP）
 
 ## 中国足球协会超级联赛（CSL）
