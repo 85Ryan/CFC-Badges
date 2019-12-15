@@ -93,7 +93,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Wuhan Three Towns](/CFA%20LEAGUE%202/South/Wuhan%20Three%20Towns)
 - [x] [Nanjing Shaye](/CFA%20LEAGUE%202/South/Nanjing%20Shaye)
 - [x] [Chengdu Better City](/CFA%20LEAGUE%202/South/Chengdu%20Better%20City)
-- [ ] Hubei Chufeng Heli
+- [x] [Hubei Chufeng Heli](/CFA%20LEAGUE%202/South/Hubei%20Chufeng%20Heli)
 - [ ] Yunnan Kunlu
 - [x] [Guangxi Baoyun](/CFA%20LEAGUE%202/South/Guangxi%20Baoyun)
 - [ ] Hangzhou Wu-Yue Qiantang

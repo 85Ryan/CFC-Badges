@@ -93,7 +93,7 @@
 - [x] [武汉三镇足球俱乐部](/CFA%20LEAGUE%202/South/Wuhan%20Three%20Towns)
 - [x] [南京沙叶足球俱乐部](/CFA%20LEAGUE%202/South/Nanjing%20Shaye)
 - [x] [成都兴城足球俱乐部](/CFA%20LEAGUE%202/South/Chengdu%20Better%20City)
-- [ ] 湖北楚风合力足球俱乐部
+- [x] [湖北楚风合力足球俱乐部](/CFA%20LEAGUE%202/South/Hubei%20Chufeng%20Heli)
 - [ ] 云南昆陆足球俱乐部
 - [x] [广西宝韵足球俱乐部](/CFA%20LEAGUE%202/South/Guangxi%20Baoyun)
 - [ ] 杭州吴越钱唐足球俱乐部
