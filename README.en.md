@@ -95,7 +95,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Chengdu Better City](/CFA%20LEAGUE%202/South/Chengdu%20Better%20City)
 - [ ] Hubei Chufeng Heli
 - [ ] Yunnan Kunlu
-- [ ] Guangxi Baoyun
+- [x] [Guangxi Baoyun](/CFA%20LEAGUE%202/South/Guangxi%20Baoyun)
 - [ ] Hangzhou Wu-Yue Qiantang
 
 ## CFA Member Association Champions League（CMCL）

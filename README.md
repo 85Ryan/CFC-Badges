@@ -95,7 +95,7 @@
 - [x] [成都兴城足球俱乐部](/CFA%20LEAGUE%202/South/Chengdu%20Better%20City)
 - [ ] 湖北楚风合力足球俱乐部
 - [ ] 云南昆陆足球俱乐部
-- [ ] 广西宝韵足球俱乐部
+- [x] [广西宝韵足球俱乐部](/CFA%20LEAGUE%202/South/Guangxi%20Baoyun)
 - [ ] 杭州吴越钱唐足球俱乐部
 
 ## 中国足球协会会员协会冠军联赛（CMCL）
