@@ -89,7 +89,7 @@
 - [x] [四川九牛足球俱乐部](/CFA%20LEAGUE%202/South/Sichuan%20Jiuniu)
 - [x] [福建天信足球俱乐部](/CFA%20LEAGUE%202/South/Fujian%20Tianxin)
 - [ ] 湖南湘涛足球俱乐部
-- [ ] 拉萨城投足球俱乐部
+- [x] [拉萨城投足球俱乐部](/CFA%20LEAGUE%202/South/Lhasa%20UCI)
 - [x] [武汉三镇足球俱乐部](/CFA%20LEAGUE%202/South/Wuhan%20Three%20Towns)
 - [x] [南京沙叶足球俱乐部](/CFA%20LEAGUE%202/South/Nanjing%20Shaye)
 - [x] [成都兴城足球俱乐部](/CFA%20LEAGUE%202/South/Chengdu%20Better%20City)

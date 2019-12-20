@@ -89,7 +89,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Sichuan Jiuniu](/CFA%20LEAGUE%202/South/Sichuan%20Jiuniu)
 - [x] [Fujian Tianxin](/CFA%20LEAGUE%202/South/Fujian%20Tianxin)
 - [ ] Hunan Billows
-- [ ] Lhasa UCI
+- [x] [Lhasa UCI](/CFA%20LEAGUE%202/South/Lhasa%20UCI)
 - [x] [Wuhan Three Towns](/CFA%20LEAGUE%202/South/Wuhan%20Three%20Towns)
 - [x] [Nanjing Shaye](/CFA%20LEAGUE%202/South/Nanjing%20Shaye)
 - [x] [Chengdu Better City](/CFA%20LEAGUE%202/South/Chengdu%20Better%20City)
