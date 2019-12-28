@@ -2,7 +2,7 @@
 
 Collect and organize the vector graphics of Chinese football clubs badges for learning and reference.
 
-All logos are available in two versions: (01) color  and (02) monochrome version.
+All logos are available in two versions: (01) multicolor  and (02) monochrome version.
 
 Because the Chinese clubs lack team culture construction, some original design material is difficult to collect (especially for low-level league clubs), so there are some logos that may differ slightly from the original design in details.
 
@@ -96,7 +96,7 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Hubei Chufeng Heli](/CFA%20LEAGUE%202/South/Hubei%20Chufeng%20Heli)
 - [ ] Yunnan Kunlu
 - [x] [Guangxi Baoyun](/CFA%20LEAGUE%202/South/Guangxi%20Baoyun)
-- [ ] Hangzhou Wu-Yue Qiantang
+- [x] [Hangzhou Wu-Yue Qiantang](/CFA%20LEAGUE%202/South/Hangzhou%20Wu-Yue%20Qiantang)
 
 ## CFA Member Association Champions League（CMCL）
 
