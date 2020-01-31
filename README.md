@@ -20,31 +20,31 @@
 
 ## 中国足球协会超级联赛（CSL）
 
-- [x] [上海上港集团足球俱乐部](/CFA%20SUPER%20LEAGUE/Shanghai%20SIPG)
 - [x] [广州恒大淘宝足球俱乐部](/CFA%20SUPER%20LEAGUE/Guangzhou%20Evergrande%20Taobao)
-- [x] [山东鲁能泰山足球俱乐部](/CFA%20SUPER%20LEAGUE/Shandong%20Luneng%20Taishan)
 - [x] [北京中赫国安足球俱乐部](/CFA%20SUPER%20LEAGUE/Beijing%20Sinobo%20Guoan)
+- [x] [上海上港集团足球俱乐部](/CFA%20SUPER%20LEAGUE/Shanghai%20SIPG)
 - [x] [江苏苏宁足球俱乐部](/CFA%20SUPER%20LEAGUE/Jiangsu%20Suning)
-- [x] [河北华夏幸福足球俱乐部](/CFA%20SUPER%20LEAGUE/Hebei%20China%20Fortune)
-- [x] [上海绿地申花足球俱乐部](/CFA%20SUPER%20LEAGUE/Shanghai%20Greenland%20Shenhua)
-- [x] [北京人和足球俱乐部](/CFA%20SUPER%20LEAGUE/Beijing%20Renhe)
-- [x] [天津天海足球俱乐部](/CFA%20SUPER%20LEAGUE/Tianjin%20Tianhai)
-- [x] [广州富力足球俱乐部](/CFA%20SUPER%20LEAGUE/Guangzhou%20R&F)
-- [x] [大连一方足球俱乐部](/CFA%20SUPER%20LEAGUE/Dalian%20Yifang)
-- [x] [河南建业足球俱乐部](/CFA%20SUPER%20LEAGUE/Henan%20Jianye)
-- [x] [重庆当代力帆足球俱乐部](/CFA%20SUPER%20LEAGUE/Chongqing%20Dangdai%20Lifan)
-- [x] [天津泰达足球俱乐部](/CFA%20SUPER%20LEAGUE/Tianjin%20Teda)
+- [x] [山东鲁能泰山足球俱乐部](/CFA%20SUPER%20LEAGUE/Shandong%20Luneng%20Taishan)
 - [x] [武汉卓尔职业足球俱乐部](/CFA%20SUPER%20LEAGUE/Wuhan%20Zall)
-- [x] [深圳市足球俱乐部](/CFA%20SUPER%20LEAGUE/Shenzhen%20FC)
+- [x] [天津泰达足球俱乐部](/CFA%20SUPER%20LEAGUE/Tianjin%20Teda)
+- [x] [河南建业足球俱乐部](/CFA%20SUPER%20LEAGUE/Henan%20Jianye)
+- [x] [大连人职业足球俱乐部](/CFA%20SUPER%20LEAGUE/Dalian%20Professional)
+- [x] [重庆当代力帆足球俱乐部](/CFA%20SUPER%20LEAGUE/Chongqing%20Dangdai%20Lifan)
+- [x] [河北华夏幸福足球俱乐部](/CFA%20SUPER%20LEAGUE/Hebei%20China%20Fortune)
+- [x] [广州富力足球俱乐部](/CFA%20SUPER%20LEAGUE/Guangzhou%20R&F)
+- [x] [上海绿地申花足球俱乐部](/CFA%20SUPER%20LEAGUE/Shanghai%20Greenland%20Shenhua)
+- [x] [天津天海足球俱乐部](/CFA%20SUPER%20LEAGUE/Tianjin%20Tianhai)
+- [x] [青岛黄海足球俱乐部](/CFA%20SUPER%20LEAGUE/Qingdao%20Huanghai)
+- [x] [石家庄永昌足球俱乐部](/CFA%20SUPER%20LEAGUE/Shijiazhuang%20Ever%20Bright)
 
 ## 中国足球协会甲级联赛（League 1）
-
+<!--
+- [x] [北京人和足球俱乐部](/CFA%20SUPER%20LEAGUE/Beijing%20Renhe)
+- [x] [深圳市足球俱乐部](/CFA%20SUPER%20LEAGUE/Shenzhen%20FC)
 - [x] [长春亚泰足球俱乐部](/CFA%20LEAGUE%201/Changchun%20Yatai)
 - [x] [贵州恒丰足球俱乐部](/CFA%20LEAGUE%201/Guizhou%20Hengfeng)
 - [x] [浙江绿城足球俱乐部](/CFA%20LEAGUE%201/Zhejiang%20Greentown)
-- [x] [青岛黄海足球俱乐部](/CFA%20LEAGUE%201/Qingdao%20Huanghai)
 - [x] [北京北体大足球俱乐部](/CFA%20LEAGUE%201/Beijing%20BSU)
-- [x] [石家庄永昌足球俱乐部](/CFA%20LEAGUE%201/Shijiazhuang%20Ever%20Bright)
 - [x] [黑龙江火山鸣泉足球俱乐部](/CFA%20LEAGUE%201/Heilongjiang%20Lava%20Spring)
 - [x] [辽宁足球俱乐部](/CFA%20LEAGUE%201/Liaoning%20FC)
 - [x] [梅州客家足球俱乐部](/CFA%20LEAGUE%201/Meizhou%20Hakka)
@@ -56,11 +56,13 @@
 - [x] [新疆天山雪豹足球俱乐部](/CFA%20LEAGUE%201/Xinjiang%20Tianshan%20Leopard)
 - [x] [陕西长安竞技足球俱乐部](/CFA%20LEAGUE%201/Shaanxi%20Chang'an%20Athletic)
 - [x] ~~[延边富德足球俱乐部（解散）](/CFA%20LEAGUE%201/Yanbian%20Funde(DISBAND))~~
+-->
  
 ## 中国足球协会乙级联赛（League 2）
 
 ### 北区
 
+<!--
 - [x] [青岛中能足球俱乐部](/CFA%20LEAGUE%202/North/Qingdao%20Jonoon)
 - [x] [沈阳城市足球俱乐部](/CFA%20LEAGUE%202/North/Shenyang%20Urban)
 - [x] [河北奥利精英足球俱乐部](/CFA%20LEAGUE%202/North/Hebei%20Aoli%20Elite)
@@ -78,9 +80,11 @@
 - [x] [西安大兴崇德足球俱乐部](/CFA%20LEAGUE%202/North/Xi'an%20Daxing%20Chongde)
 - [x] [青岛红狮足球俱乐部](/CFA%20LEAGUE%202/North/Qingdao%20Red%20Lions)
 - [x] ~~[大连超越足球俱乐部（解散）](/CFA%20LEAGUE%202/North/Dalian%20Transcendence(DISBAND))~~
+-->
 
 ### 南区
 
+<!--
 - [x] [昆山足球俱乐部](/CFA%20LEAGUE%202/South/Kunshan%20FC)
 - [x] [深圳鹏程足球俱乐部](/CFA%20LEAGUE%202/South/Shenzhen%20Pengcheng)
 - [x] [浙江毅腾足球俱乐部](/CFA%20LEAGUE%202/South/Zhejiang%20Yiteng)
@@ -97,94 +101,12 @@
 - [ ] 云南昆陆足球俱乐部
 - [x] [广西宝韵足球俱乐部](/CFA%20LEAGUE%202/South/Guangxi%20Baoyun)
 - [x] [杭州吴越钱唐足球俱乐部](/CFA%20LEAGUE%202/South/Hangzhou%20Wu-Yue%20Qiantang)
+-->
 
 ## 中国足球协会会员协会冠军联赛（CMCL）
 
-### A组
-
-- [ ] 惠州惠新足球俱乐部
-- [ ] 茂名油都足球俱乐部
-- [ ] 深圳壆岗足球俱乐部
-- [ ] 柳州远道足球俱乐部
-- [ ] 澳门发展足球队
-- [ ] 南宁滨江足球俱乐部
-
-### B组
-
-- [ ] 南京巴兰塔足球俱乐部
-- [ ] 扬州华奥风云足球俱乐部
-- [ ] 湖州乐活足球俱乐部
-- [ ] 厦门南薰足球俱乐部
-- [ ] 上海搏击长空足球俱乐部
-- [ ] 金华中筹足球俱乐部
-
-### C组
-
-- [ ] 山西至盛足球俱乐部
-- [ ] 山西晋之虎足球俱乐部
-- [ ] 青岛中创恒泰足球俱乐部
-- [ ] 营口超越足球俱乐部
-- [ ] 丹东瀚通足球俱乐部
-
-### D组
-
-- [ ] 肇庆天峰东湖足球俱乐部
-- [ ] 广州国体茵超足球俱乐部
-- [ ] 福州恒星足球俱乐部
-- [ ] 海南琼海京海成足球俱乐部
-- [ ] 海南红色战车足球俱乐部
-
-### E组
-
-- [ ] 荷泽曹州足球俱乐部
-- [ ] 淄博起源地足球俱乐部
-- [ ] 大连华亿足球俱乐部
-- [ ] 呼伦贝尔锡尼河足球俱乐部
-- [ ] 鄂温克雄鹰足球俱乐部
-- [ ] 延边海兰江足球俱乐部
-
-### F组
-
-- [ ] 四川顶耀足球俱乐部
-- [ ] 成都德驰足球俱乐部
-- [ ] 西安优柯足球俱乐部
-- [ ] 重庆笛凯机电足球俱乐部
-- [ ] 重庆润麟足球俱乐部
-
-### G组
-
-- [ ] 湖北华创足球俱乐部
-- [ ] 武汉弗瑞曼足球俱乐部
-- [ ] 山东望岳足球俱乐部
-- [ ] 河南东方今典足球俱乐部
-- [ ] 洛阳赛乐足球俱乐部
-
-### H组
-
-- [ ] 甘肃麦斯力足球俱乐部
-- [ ] 兰州海陆兰润足球俱乐部
-- [ ] 乌兰察布奇乐足球俱乐部
-- [ ] 榆林草根足球俱乐部
-- [ ] 西安高新易联足球俱乐部
-
-### I组
-
-- [ ] 厦门南虎足球俱乐部
-- [ ] 厦门真豪足球俱乐部
-- [ ] 湖北武体载铭足球俱乐部
-- [ ] 海南万宁腾骥足球俱乐部
-- [ ] 海南陵水鼎力足球俱乐部
-- [ ] 宁波大榭银博足球俱乐部
-
-### J组
-
-- [ ] 安徽华强足球俱乐部
-- [ ] 芜湖龙翔足球俱乐部
-- [ ] 南京枫帆足球俱乐部
-- [ ] 上海呈讯足球俱乐部
-- [ ] 上海华交足球俱乐部
 
 ## 说明
 
-- 以上各级别联赛俱乐部名单为 2019 赛季参赛名单。
+- 以上各级别联赛俱乐部名单为 2020 赛季参赛名单。
 - 所有标志仅供学习参考使用，请勿商用，版权归原版权方所有。

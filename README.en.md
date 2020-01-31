@@ -20,31 +20,32 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 
 ## CFA Super League（CSL）
 
-- [x] [Shanghai SIPG](/CFA%20SUPER%20LEAGUE/Shanghai%20SIPG)
 - [x] [Guangzhou Evergrande Taobao](/CFA%20SUPER%20LEAGUE/Guangzhou%20Evergrande%20Taobao)
-- [x] [Shandong Luneng Taishan](/CFA%20SUPER%20LEAGUE/Shandong%20Luneng%20Taishan)
 - [x] [Beijing Sinobo Guoan](/CFA%20SUPER%20LEAGUE/Beijing%20Sinobo%20Guoan)
+- [x] [Shanghai SIPG](/CFA%20SUPER%20LEAGUE/Shanghai%20SIPG)
 - [x] [Jiangsu Suning](/CFA%20SUPER%20LEAGUE/Jiangsu%20Suning)
-- [x] [Hebei China Fortune](/CFA%20SUPER%20LEAGUE/Hebei%20China%20Fortune)
-- [x] [Shanghai Greenland Shenhua](/CFA%20SUPER%20LEAGUE/Shanghai%20Greenland%20Shenhua)
-- [x] [Beijing Renhe](/CFA%20SUPER%20LEAGUE/Beijing%20Renhe)
-- [x] [Tianjin Tianhai](/CFA%20SUPER%20LEAGUE/Tianjin%20Tianhai)
-- [x] [Guangzhou R&F](/CFA%20SUPER%20LEAGUE/Guangzhou%20R&F)
-- [x] [Dalian Yifang](/CFA%20SUPER%20LEAGUE/Dalian%20Yifang)
-- [x] [Henan Jianye](/CFA%20SUPER%20LEAGUE/Henan%20Jianye)
-- [x] [Chongqing Dangdai Lifan](/CFA%20SUPER%20LEAGUE/Chongqing%20Dangdai%20Lifan)
-- [x] [Tianjin Teda](/CFA%20SUPER%20LEAGUE/Tianjin%20Teda)
+- [x] [Shandong Luneng Taishan](/CFA%20SUPER%20LEAGUE/Shandong%20Luneng%20Taishan)
 - [x] [Wuhan Zall](/CFA%20SUPER%20LEAGUE/Wuhan%20Zall)
-- [x] [Shenzhen FC](/CFA%20SUPER%20LEAGUE/Shenzhen%20FC)
+- [x] [Tianjin Teda](/CFA%20SUPER%20LEAGUE/Tianjin%20Teda)
+- [x] [Henan Jianye](/CFA%20SUPER%20LEAGUE/Henan%20Jianye)
+- [x] [Dalian Professional](/CFA%20SUPER%20LEAGUE/Dalian%20Professional)
+- [x] [Chongqing Dangdai Lifan](/CFA%20SUPER%20LEAGUE/Chongqing%20Dangdai%20Lifan)
+- [x] [Hebei China Fortune](/CFA%20SUPER%20LEAGUE/Hebei%20China%20Fortune)
+- [x] [Guangzhou R&F](/CFA%20SUPER%20LEAGUE/Guangzhou%20R&F)
+- [x] [Shanghai Greenland Shenhua](/CFA%20SUPER%20LEAGUE/Shanghai%20Greenland%20Shenhua)
+- [x] [Tianjin Tianhai](/CFA%20SUPER%20LEAGUE/Tianjin%20Tianhai)
+- [x] [Qingdao Huanghai](/CFA%20SUPER%20LEAGUE/Qingdao%20Huanghai)
+- [x] [Shijiazhuang Ever Bright](/CFA%20SUPER%20LEAGUE/Shijiazhuang%20Ever%20Bright)
 
 ## CFA League 1（League 1）
 
+<!--
+- [ ] [Shenzhen FC](/CFA%20SUPER%20LEAGUE/Shenzhen%20FC)
+- [ ] [Beijing Renhe](/CFA%20SUPER%20LEAGUE/Beijing%20Renhe)
 - [x] [Changchun Yatai](/CFA%20LEAGUE%201/Changchun%20Yatai)
 - [x] [Guizhou Hengfeng](/CFA%20LEAGUE%201/Guizhou%20Hengfeng)
 - [x] [Zhejiang Greentown](/CFA%20LEAGUE%201/Zhejiang%20Greentown)
-- [x] [Qingdao Huanghai](/CFA%20LEAGUE%201/Qingdao%20Huanghai)
 - [x] [Beijing BSU](/CFA%20LEAGUE%201/Beijing%20BSU)
-- [x] [Shijiazhuang Ever Bright](/CFA%20LEAGUE%201/Shijiazhuang%20Ever%20Bright)
 - [x] [Heilongjiang Lava Spring](/CFA%20LEAGUE%201/Heilongjiang%20Lava%20Spring)
 - [x] [Liaoning FC](/CFA%20LEAGUE%201/Liaoning%20FC)
 - [x] [Meizhou Hakka](/CFA%20LEAGUE%201/Meizhou%20Hakka)
@@ -56,11 +57,13 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Xinjiang Tianshan Leopard](/CFA%20LEAGUE%20/Xinjiang%20Tianshan%20Leopard)
 - [x] [Shaanxi Chang'an Athletic](/CFA%20LEAGUE%201/Shaanxi%20Chang'an%20Athletic)
 - [x] ~~[Yanbian Funde(DISBAND)](/CFA%20LEAGUE%201/Yanbian%20Funde(DISBAND))~~
+-->
 
 ## CFA League 2（League 2）
 
 ### North
 
+<!--
 - [x] [Qingdao Jonoon](/CFA%20LEAGUE%202/North/Qingdao%20Jonoon)
 - [x] [Shenyang Urban](/CFA%20LEAGUE%202/North/Shenyang%20Urban)
 - [x] [Hebei Aoli Elite](/CFA%20LEAGUE%202/North/Hebei%20Aoli%20Elite)
@@ -78,9 +81,11 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Xi'an Daxing Chongde](/CFA%20LEAGUE%202/North/Xi'an%20Daxing%20Chongde)
 - [x] [Qingdao Red Lions](/CFA%20LEAGUE%202/North/Qingdao%20Red%20Lions)
 - [x] ~~[Dalian Transcendence(DISBAND)](/CFA%20LEAGUE%202/North/Dalian%20Transcendence(DISBAND))~~
+-->
 
 ### South
 
+<!--
 - [x] [Kunshan FC](/CFA%20LEAGUE%202/South/Kunshan%20FC)
 - [x] [Shenzhen Pengcheng](/CFA%20LEAGUE%202/South/Shenzhen%20Pengcheng)
 - [x] [Zhejiang Yiteng](/CFA%20LEAGUE%202/South/Zhejiang%20Yiteng)
@@ -97,92 +102,9 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [ ] Yunnan Kunlu
 - [x] [Guangxi Baoyun](/CFA%20LEAGUE%202/South/Guangxi%20Baoyun)
 - [x] [Hangzhou Wu-Yue Qiantang](/CFA%20LEAGUE%202/South/Hangzhou%20Wu-Yue%20Qiantang)
+-->
 
 ## CFA Member Association Champions League（CMCL）
-
-### Group A
-
-- [ ] Huizhou Huixin
-- [ ] Moming Oil City
-- [ ] Shenzhen Bogang
-- [ ] Liuzhou Ranko
-- [ ] Macau FA Developent
-- [ ] Nanning Binjiang
-
-### Group B
-
-- [ ] Nanjing Baranta
-- [ ] Yangzhou Huaao Fengyun
-- [ ] Huzhou Lehuo
-- [ ] Xiamen Nanxun
-- [ ] Shanghai Boji
-- [ ] Jinhua Zhongchou
-
-### Group C
-
-- [ ] Shanxi Zhisheng
-- [ ] Shanxi Jin Tiger
-- [ ] Qingdao Kangtine
-- [ ] Yingkou Chaoyue
-- [ ] Dandong Hantong
-
-### Group D
-
-- [ ] Zhaoqing Topfung Eastlake
-- [ ] Guangzhou Glorious
-- [ ] Hainan Qionghai Jinghaicheng
-- [ ] Fuzhou Hengxing
-- [ ] Hainan Red Chariot
-
-### Group E
-
-- [ ] Heze Caozhou
-- [ ] Zibo Birthplace
-- [ ] Dalian Huayi
-- [ ] Hunlunbuir Xinihe
-- [ ] Ewenki Xiongying
-- [ ] Yanbian Hailanjiang
-
-### Group F
-
-- [ ] Sichuang Top Shine
-- [ ] Chengdu Decci
-- [ ] Xi'an Youke
-- [ ] Chongqiong Shapinba Dikai
-- [ ] Chongqiong Runlin
-
-### Group G
-
-- [ ] Hubei Huachuang
-- [ ] Wuhan Freeman
-- [ ] Shangdong Wangyue
-- [ ] Henan Oriental Classic
-- [ ] Luoyang Saile
-
-### Group H
-
-- [ ] Gansu Mass Ray
-- [ ] Lanzhou Marine Corps
-- [ ] Ulanqab Qile
-- [ ] Yulin Caogen
-- [ ] Xi'an High-tech
-
-### Group I
-
-- [ ] Xiamen Nanhu
-- [ ] Xiamen Zhenhao
-- [ ] Hubei Wuhan Athletics Zaiming
-- [ ] Hainan Lingshui Dingli
-- [ ] Hainan Wangning Tengji
-- [ ] Ningbo Daxie Yinbo
-
-### Group J
-
-- [ ] Anhui Huaqiang
-- [ ] Wuhu Longxiang
-- [ ] Nanjing Fengfan
-- [ ] Shanghai SAIC
-- [ ] Shanghai Huajiao
 
 ## STATEMENT
 
