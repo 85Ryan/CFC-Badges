@@ -39,14 +39,14 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 
 ## CFA League 1（League 1）
 
-<!--
-- [ ] [Shenzhen FC](/CFA%20SUPER%20LEAGUE/Shenzhen%20FC)
-- [ ] [Beijing Renhe](/CFA%20SUPER%20LEAGUE/Beijing%20Renhe)
-- [x] [Changchun Yatai](/CFA%20LEAGUE%201/Changchun%20Yatai)
+- [x] [Shenzhen FC](/CFA%20LEAGUE%201/Shenzhen%20FC)
+- [x] [Beijing Renhe](/CFA%20LEAGUE%201/Beijing%20Renhe)
 - [x] [Guizhou Hengfeng](/CFA%20LEAGUE%201/Guizhou%20Hengfeng)
+- [x] [Heilongjiang Lava Spring](/CFA%20LEAGUE%201/Heilongjiang%20Lava%20Spring)
+- [x] [Changchun Yatai](/CFA%20LEAGUE%201/Changchun%20Yatai)
+
 - [x] [Zhejiang Greentown](/CFA%20LEAGUE%201/Zhejiang%20Greentown)
 - [x] [Beijing BSU](/CFA%20LEAGUE%201/Beijing%20BSU)
-- [x] [Heilongjiang Lava Spring](/CFA%20LEAGUE%201/Heilongjiang%20Lava%20Spring)
 - [x] [Liaoning FC](/CFA%20LEAGUE%201/Liaoning%20FC)
 - [x] [Meizhou Hakka](/CFA%20LEAGUE%201/Meizhou%20Hakka)
 - [x] [Shanghai Shenxin](/CFA%20LEAGUE%201/Shanghai%20Shenxin)
@@ -56,8 +56,6 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Nantong Zhiyun](/CFA%20LEAGUE%201/Nantong%20Zhiyun)
 - [x] [Xinjiang Tianshan Leopard](/CFA%20LEAGUE%20/Xinjiang%20Tianshan%20Leopard)
 - [x] [Shaanxi Chang'an Athletic](/CFA%20LEAGUE%201/Shaanxi%20Chang'an%20Athletic)
-- [x] ~~[Yanbian Funde(DISBAND)](/CFA%20LEAGUE%201/Yanbian%20Funde(DISBAND))~~
--->
 
 ## CFA League 2（League 2）
 

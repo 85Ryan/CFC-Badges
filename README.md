@@ -33,78 +33,55 @@
 - [x] [河北华夏幸福足球俱乐部](/CFA%20SUPER%20LEAGUE/Hebei%20China%20Fortune)
 - [x] [广州富力足球俱乐部](/CFA%20SUPER%20LEAGUE/Guangzhou%20R&F)
 - [x] [上海绿地申花足球俱乐部](/CFA%20SUPER%20LEAGUE/Shanghai%20Greenland%20Shenhua)
-- [x] [天津天海足球俱乐部](/CFA%20SUPER%20LEAGUE/Tianjin%20Tianhai)
 - [x] [青岛黄海足球俱乐部](/CFA%20SUPER%20LEAGUE/Qingdao%20Huanghai)
 - [x] [石家庄永昌足球俱乐部](/CFA%20SUPER%20LEAGUE/Shijiazhuang%20Ever%20Bright)
+- [x] [深圳市足球俱乐部](/CFA%20SUPER%20LEAGUE/Shenzhen%20FC)
 
 ## 中国足球协会甲级联赛（League 1）
-<!--
-- [x] [北京人和足球俱乐部](/CFA%20SUPER%20LEAGUE/Beijing%20Renhe)
-- [x] [深圳市足球俱乐部](/CFA%20SUPER%20LEAGUE/Shenzhen%20FC)
-- [x] [长春亚泰足球俱乐部](/CFA%20LEAGUE%201/Changchun%20Yatai)
+
+- [x] [北京人和足球俱乐部](/CFA%20LEAGUE%201/Beijing%20Renhe)
 - [x] [贵州恒丰足球俱乐部](/CFA%20LEAGUE%201/Guizhou%20Hengfeng)
-- [x] [浙江绿城足球俱乐部](/CFA%20LEAGUE%201/Zhejiang%20Greentown)
-- [x] [北京北体大足球俱乐部](/CFA%20LEAGUE%201/Beijing%20BSU)
 - [x] [黑龙江火山鸣泉足球俱乐部](/CFA%20LEAGUE%201/Heilongjiang%20Lava%20Spring)
-- [x] [辽宁足球俱乐部](/CFA%20LEAGUE%201/Liaoning%20FC)
-- [x] [梅州客家足球俱乐部](/CFA%20LEAGUE%201/Meizhou%20Hakka)
-- [x] [上海申鑫足球俱乐部](/CFA%20LEAGUE%201/Shanghai%20Shenxin)
+- [x] [长春亚泰足球俱乐部](/CFA%20LEAGUE%201/Changchun%20Yatai)
+- [x] [浙江绿城足球俱乐部](/CFA%20LEAGUE%201/Zhejiang%20Greentown)
 - [x] [内蒙古中优足球俱乐部](/CFA%20LEAGUE%201/Inner%20Mongolia%20Zhongyou)
-- [x] [广东华南虎足球俱乐部](/CFA%20LEAGUE%201/Guangdong%20Southern%20Tigers)
-- [x] [四川安纳普尔那足球俱乐部](/CFA%20LEAGUE%201/Sichuan%20Annapurna%20United)
+- [x] [北京北体大足球俱乐部](/CFA%20LEAGUE%201/Beijing%20BSU)
+- [x] [陕西长安竞技足球俱乐部](/CFA%20LEAGUE%201/Shaanxi%20Chang'an%20Athletic)
+- [x] [梅州客家足球俱乐部](/CFA%20LEAGUE%201/Meizhou%20Hakka)
 - [x] [南通支云足球俱乐部](/CFA%20LEAGUE%201/Nantong%20Zhiyun)
 - [x] [新疆天山雪豹足球俱乐部](/CFA%20LEAGUE%201/Xinjiang%20Tianshan%20Leopard)
-- [x] [陕西长安竞技足球俱乐部](/CFA%20LEAGUE%201/Shaanxi%20Chang'an%20Athletic)
-- [x] ~~[延边富德足球俱乐部（解散）](/CFA%20LEAGUE%201/Yanbian%20Funde(DISBAND))~~
--->
- 
-## 中国足球协会乙级联赛（League 2）
-
-### 北区
-
-<!--
-- [x] [青岛中能足球俱乐部](/CFA%20LEAGUE%202/North/Qingdao%20Jonoon)
-- [x] [沈阳城市足球俱乐部](/CFA%20LEAGUE%202/North/Shenyang%20Urban)
-- [x] [河北奥利精英足球俱乐部](/CFA%20LEAGUE%202/North/Hebei%20Aoli%20Elite)
-- [x] [淄博蹴鞠足球俱乐部](/CFA%20LEAGUE%202/North/Zibo%20Cuju)
-- [x] [江苏盐城鼎立足球俱乐部](/CFA%20LEAGUE%202/North/Jiangsu%20Yancheng%20Dingli)
-- [x] [大连千兆足球俱乐部](/CFA%20LEAGUE%202/North/Dalian%20Chanjoy)
-- [x] [吉林百嘉足球俱乐部](/CFA%20LEAGUE%202/North/Jilin%20Baijia)
-- [ ] 银川贺兰山足球俱乐部
-- [x] [延边北国足球俱乐部](/CFA%20LEAGUE%202/North/Yanbian%20Beiguo)
-- [x] [北京理工足球俱乐部](/CFA%20LEAGUE%202/North/Beijing%20BIT)
+- [ ] 辽宁沈阳城市足球俱乐部
+- [x] [成都兴城足球俱乐部](/CFA%20LEAGUE%202/South/Chengdu%20Better%20City)
 - [x] [泰州远大足球俱乐部](/CFA%20LEAGUE%202/North/Taizhou%20Yuanda)
-- [x] [保定英利易通足球俱乐部](/CFA%20LEAGUE%202/North/Baoding%20Yingli%20Yitong)
-- [x] [内蒙古草上飞足球俱乐部](/CFA%20LEAGUE%202/North/Inner%20Mongolia%20Caoshangfei)
-- [x] [山西信都足球俱乐部](/CFA%20LEAGUE%202/North/Shanxi%20Metropolis)
-- [x] [西安大兴崇德足球俱乐部](/CFA%20LEAGUE%202/North/Xi'an%20Daxing%20Chongde)
-- [x] [青岛红狮足球俱乐部](/CFA%20LEAGUE%202/North/Qingdao%20Red%20Lions)
-- [x] ~~[大连超越足球俱乐部（解散）](/CFA%20LEAGUE%202/North/Dalian%20Transcendence(DISBAND))~~
--->
-
-### 南区
-
-<!--
-- [x] [昆山足球俱乐部](/CFA%20LEAGUE%202/South/Kunshan%20FC)
-- [x] [深圳鹏程足球俱乐部](/CFA%20LEAGUE%202/South/Shenzhen%20Pengcheng)
-- [x] [浙江毅腾足球俱乐部](/CFA%20LEAGUE%202/South/Zhejiang%20Yiteng)
 - [x] [苏州东吴足球俱乐部](/CFA%20LEAGUE%202/South/Suzhou%20Dongwu)
 - [x] [江西联盛足球俱乐部](/CFA%20LEAGUE%202/South/Jiangxi%20Liansheng)
 - [x] [四川九牛足球俱乐部](/CFA%20LEAGUE%202/South/Sichuan%20Jiuniu)
-- [x] [福建天信足球俱乐部](/CFA%20LEAGUE%202/South/Fujian%20Tianxin)
-- [ ] 湖南湘涛足球俱乐部
-- [x] [拉萨城投足球俱乐部](/CFA%20LEAGUE%202/South/Lhasa%20UCI)
+- [x] [昆山足球俱乐部](/CFA%20LEAGUE%202/South/Kunshan%20FC)
+
+## 中国足球协会乙级联赛（League 2）
+
+- [x] [河北奥利精英足球俱乐部](/CFA%20LEAGUE%202/North/Hebei%20Aoli%20Elite)
+- [x] [淄博蹴鞠足球俱乐部](/CFA%20LEAGUE%202/North/Zibo%20Cuju)
 - [x] [武汉三镇足球俱乐部](/CFA%20LEAGUE%202/South/Wuhan%20Three%20Towns)
-- [x] [南京沙叶足球俱乐部](/CFA%20LEAGUE%202/South/Nanjing%20Shaye)
-- [x] [成都兴城足球俱乐部](/CFA%20LEAGUE%202/South/Chengdu%20Better%20City)
+- [x] [青岛中能足球俱乐部](/CFA%20LEAGUE%202/North/Qingdao%20Jonoon)
+- [x] [江苏盐城鼎立足球俱乐部](/CFA%20LEAGUE%202/North/Jiangsu%20Yancheng%20Dingli)
+- [x] [浙江毅腾足球俱乐部](/CFA%20LEAGUE%202/South/Zhejiang%20Yiteng)
 - [x] [湖北楚风合力足球俱乐部](/CFA%20LEAGUE%202/South/Hubei%20Chufeng%20Heli)
-- [ ] 云南昆陆足球俱乐部
+- [x] [北京理工足球俱乐部](/CFA%20LEAGUE%202/North/Beijing%20BIT)
+- [x] [青岛红狮足球俱乐部](/CFA%20LEAGUE%202/North/Qingdao%20Red%20Lions)
+- [x] [拉萨城投足球俱乐部](/CFA%20LEAGUE%202/South/Lhasa%20UCI)
 - [x] [广西宝韵足球俱乐部](/CFA%20LEAGUE%202/South/Guangxi%20Baoyun)
-- [x] [杭州吴越钱唐足球俱乐部](/CFA%20LEAGUE%202/South/Hangzhou%20Wu-Yue%20Qiantang)
--->
+- [ ] 湖南湘涛足球俱乐部
+- [x] [内蒙古草上飞足球俱乐部](/CFA%20LEAGUE%202/North/Inner%20Mongolia%20Caoshangfei)
+- [x] [西安大兴崇德足球俱乐部](/CFA%20LEAGUE%202/North/Xi'an%20Daxing%20Chongde)
+- [ ] 南京枫帆足球俱乐部
+- [ ] 深圳壆岗足球俱乐部
+- [ ] 西安优柯多足球俱乐部
+- [ ] 云南昆陆足球俱乐部
+- [ ] 山西龙晋足球俱乐部
+- [ ] 青岛中创恒泰足球俱乐部
 
 ## 中国足球协会会员协会冠军联赛（CMCL）
-
 
 ## 说明
 
