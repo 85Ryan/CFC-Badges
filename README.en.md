@@ -33,13 +33,13 @@ Switch to other languages：[🇨🇳 简体中文](/README.md)
 - [x] [Hebei China Fortune](/CFA%20SUPER%20LEAGUE/Hebei%20China%20Fortune)
 - [x] [Guangzhou R&F](/CFA%20SUPER%20LEAGUE/Guangzhou%20R&F)
 - [x] [Shanghai Greenland Shenhua](/CFA%20SUPER%20LEAGUE/Shanghai%20Greenland%20Shenhua)
-- [x] [Tianjin Tianhai](/CFA%20SUPER%20LEAGUE/Tianjin%20Tianhai)
 - [x] [Qingdao Huanghai](/CFA%20SUPER%20LEAGUE/Qingdao%20Huanghai)
 - [x] [Shijiazhuang Ever Bright](/CFA%20SUPER%20LEAGUE/Shijiazhuang%20Ever%20Bright)
+- [x] [Shenzhen FC](/CFA%20SUPER%20LEAGUE/Shenzhen%20FC)
 
 ## CFA League 1（League 1）
 
-- [x] [Shenzhen FC](/CFA%20LEAGUE%201/Shenzhen%20FC)
+
 - [x] [Beijing Renhe](/CFA%20LEAGUE%201/Beijing%20Renhe)
 - [x] [Guizhou Hengfeng](/CFA%20LEAGUE%201/Guizhou%20Hengfeng)
 - [x] [Heilongjiang Lava Spring](/CFA%20LEAGUE%201/Heilongjiang%20Lava%20Spring)
