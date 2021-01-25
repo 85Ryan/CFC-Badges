@@ -1,3 +1,5 @@
+> This repo is no longer updated, new repo link: https://github.com/FCLOGO/cfa-fclogo
+
 # Chinese Football Clubs Badges
 
 Collect and organize the vector graphics of Chinese football clubs badges for learning and reference.
