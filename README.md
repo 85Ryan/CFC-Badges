@@ -1,4 +1,4 @@
-> 此项目不再更新，新项目链接：https://github.com/FCLOGO/cfa-fclogo
+> 此项目不再更新，新项目链接：https://github.com/FCLOGO/fclogo.top
 
 # 中国足球俱乐部队徽
 

@@ -1,4 +1,4 @@
-> This repo is no longer updated, new repo link: https://github.com/FCLOGO/cfa-fclogo
+> This repo is no longer updated, new repo link: https://github.com/FCLOGO/fclogo.top
 
 # Chinese Football Clubs Badges
 
